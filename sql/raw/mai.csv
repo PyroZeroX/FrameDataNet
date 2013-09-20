@@ -1,0 +1,55 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comment
+Mai,cl.A,25,3,3,1,
+Mai,cr.A,25,3,5,2,
+Mai,st.A,25,3,4,1,
+Mai,j.A,45,3,5,-,
+Mai,hop A,40,3,5,-,
+Mai,st.B,30,3,6,0,
+Mai,cr.B,30,3,4,0,
+Mai,B Far,30,3,6,0,
+Mai,j.B,45,3,5,-,
+Mai,hop B,40,3,5,-,
+Mai,cl.C,70,7,4,0,
+Mai,cr.C,70,7,4,-5,
+Mai,st.C,80,7,8,-5,
+Mai,j.C,72,7,7,-,
+Mai,hop C,70,7,7,-,
+Mai,cl.D,70,7,7,-2,
+Mai,cr.D,80,7,7,-10,
+Mai,st.D,80,7,8,-7,
+Mai,j.D,70,7,7,-,
+Mai,hop D,68,7,7,-,
+Mai,st CD,75,10,13,4,
+Mai,jump CD,90,8,9,-,
+Mai,hop CD,80,8,9,-,
+Mai,Ukihane (Air Down B),60,10,10,-,"on guard -1F close to the ground, occurs fastest 15F ground up to +9 F advantage"
+Mai,Fuusha Kuzushi (Throw),100,0,1,-,Hard Knock Down
+Mai,Yura (Air Throw),125,0,1,-,Hard Knock Down
+Mai,GCCD,4,0,13,-15,"13F startup on Weak attacks, 17F on normals and jumping attacks"
+Mai,Kachosen,6,6,"15, 14","  -2, -6",Left vulnerable in close range
+Mai,A Ryu en Bu,65,8,15,-1,
+Mai,C Ryu en Bu(1),40,6,9,-,
+Mai,C Ryu en Bu(2),65,6,-,-7,
+Mai,B Hissatsu Shinobi Bachi(1),45,4,12,-,
+Mai,B Hissatsu Shinobi Bachi(2),45,4,-,-21,
+Mai,D Hissatsu Shinobi Bachi(1),50,4,12,-,raw in the guard
+Mai,D Hissatsu Shinobi Bachi(2),50,4,16,-,startup during a combo
+Mai,D Hissatsu Shinobi Bachi(3),45,4,-,-22,
+Mai,Musabi No Mai,70,8,-,-,
+Mai,Musabi No Mai (Air),70,8,21,0,at the lowest point of the jump
+Mai,EX Kachosen,120,0,9,-5,
+Mai,EX Ryuenbu(1),50,0,7,-,
+Mai,EX Ryuenbu(2),80,0,-,7,
+Mai,EX Hissatsu Shinobi Bachi(1),32,0,12,-,
+Mai,EX Hissatsu Shinobi Bachi(2-5),32,0,-,-2,
+Mai,EX Musasabi No Mai (Air),48,0,16,0,
+Mai,Chou Hissatsu Shinobi Bachi(1),30,0,40 (11),-,Stop time 29
+Mai,Chou Hissatsu Shinobi Bachi(2-9),25,0,-,-11,
+Mai,Chou Hissatsu Shinobi Bachi(1) (Air),25,0,40 (10),-,Stop time 30
+Mai,Chou Hissatsu Shinobi Bachi(2-7) (Air),25,0,-,-7,at the lowest point of the jump
+Mai,EX Chou Hissatsu Shinobi Bachi(1),45,0,36 (7),-,Stop time 29
+Mai,EX Chou Hissatsu Shinobi Bachi(2-12),25,0,-,-9,
+Mai,EX Chou Hissatsu Shinobi Bachi(1) (Air),25,0,36 (6),-,Stop time 30
+Mai,EX Chou Hissatsu Shinobi Bachi(2-13) (Air),25,0,-,-5,at the lowest point of the jump
+Mai,Shiranui Ryuu Kunoichi No Mai(1),0,0,64 (4-6),-15,end measured at 60F
+Mai,Shiranui Ryuu Kunoichi No Mai(2),450,0,-,-,

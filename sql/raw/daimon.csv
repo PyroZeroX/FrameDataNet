@@ -1,0 +1,55 @@
+fighter,Move,Damage,Stun,Startup,On Guard,Remarks
+Goro Daimon,cl.A,30,8,4,1,
+Goro Daimon,cr.A,25,3,6,1,
+Goro Daimon,st.A,25,8,4,1,
+Goro Daimon,j.A,45,3,4,-,
+Goro Daimon,h.A,40,3,5,-,
+Goro Daimon,cl.B,40,8,4,-2,
+Goro Daimon,cr.B,30,3,4,0,
+Goro Daimon,st.B,30,8,4,-2,
+Goro Daimon,j.B,45,3,5,-,
+Goro Daimon,hop B,40,3,5,-,
+Goro Daimon,cl.C,80,10,5,-1,
+Goro Daimon,cr.C,80,10,8,-6,
+Goro Daimon,st.C,80,7,9,-10,
+Goro Daimon,j.C,72,7,9,-,
+Goro Daimon,hop C,70,7,9,-,
+Goro Daimon,cl.D,90,10,6,-5,
+Goro Daimon,cr.D,80,7,6,-2,
+Goro Daimon,st.D,80,10,6,-5,
+Goro Daimon,j.D,70,7,7,-,
+Goro Daimon,hop D,70,7,6,-,
+Goro Daimon,st.CD,75,10,16,2,
+Goro Daimon,j.CD,90,8,14,-,
+Goro Daimon,hop CD,80,8,12,-,
+Goro Daimon,Zujoubarai,60,6,5,-11,
+Goro Daimon,Okuriashibarai,100,0,1,-,Hard knockdown
+Goro Daimon,GCCD,4,0,13,-15,vs. Wk 13, Str 17, Jump attacks 17
+Goro Daimon,Tenchigaeshi1,30,0,1,-,Whiff 38
+Goro Daimon,Tenchigaeshi2,150,0,-,-,
+Goro Daimon,Kumotsukaminage1,0,0,6,-10,
+Goro Daimon,Kumotsukaminage2,120,0,-,-,
+Goro Daimon,Kirikabugaeshi1,0,0,19,-5,
+Goro Daimon,Kirikabugaeshi2,80,0,-,-,
+Goro Daimon,Jiraishin,90,0,27,-,Full animation 63
+Goro Daimon,Osotogari,140,0,9,-,Whiff 42
+Goro Daimon,Jiraishin Feint,0,0,-,-,Full animation 33
+Goro Daimon,Chou Ukemi,0,0,-,-,Wk animation 34, Strong animation 41
+Goro Daimon,EX Tenchigaeshi1,40,0,1,-,Whiff 42
+Goro Daimon,EX Tenchigaeshi2,50,0,-,-,
+Goro Daimon,EX Tenchigaeshi3,100,0,-,-,
+Goro Daimon,EX Kumotsukaminage,0,0,5,-18,
+Goro Daimon,EX Kumotsukaminage,210,0,-,-,
+Goro Daimon,EX Jiraishin1,100,0,15,-,Earthquake 19 / Full animation 50
+Goro Daimon,EX Jiraishin2,100,0,-,-18,Standing guard, Crouching guard
+Goro Daimon,EX Osotogari,180,0,9,-,Whiff 30
+Goro Daimon,EX Chou Ukemi,0,0,-,-,Weak animation 37
+Goro Daimon,Jigoku Gokurakuotoshi1,20,0,1,-,Freeze 29, whiff80(51)
+Goro Daimon,Jigoku Gokurakuotoshi2-4,20,0,-,-,
+Goro Daimon,Jigoku Gokurakuotoshi5,150,0,-,-,
+Goro Daimon,EX Jigoku Gokurakuotoshi1,20,0,1,-,Freeze 29, Whiff 80(51)
+Goro Daimon,EX Jigoku Gokurakuotoshi2-8,20,0,-,-,
+Goro Daimon,EX Jigoku Gokurakuotoshi9,100,0,-,-,
+Goro Daimon,EX Jigoku Gokurakuotoshi10,80,0,-,-,
+Goro Daimon,Kyokuten Douchi,480,0,1-30,-,Full animation 41
+Goro Daimon,

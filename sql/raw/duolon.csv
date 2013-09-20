@@ -1,0 +1,54 @@
+fighter,Move,Damage,Stun,Startup,On Guard,Remarks
+Duo Lon,s.A,25,3,5,3,
+Duo Lon,d.A,25,3,4,4,
+Duo Lon,Far A,25,3,5,3,
+Duo Lon,j.A,45,3,5,-,
+Duo Lon,Hop A,40,3,5,-,
+Duo Lon,s.B,30,3,6,1,
+Duo Lon,d.B,30,3,5,1,
+Duo Lon,Far B,30,3,6,1,
+Duo Lon,j.B,45,3,5,-,
+Duo Lon,Hop B,40,3,5,-,
+Duo Lon,s.C,70,7,5,-1,
+Duo Lon,d.C,70,7,6,-10,
+Duo Lon,Far C,80,7,5,-1,
+Duo Lon,j.C,72,7,6,-,
+Duo Lon,Hop C,70,7,6,-,
+Duo Lon,s.D,70,7,5,-9,
+Duo Lon,d.D,80,7,9,-5,
+Duo Lon,Far D,70,7,9,-7,
+Duo Lon,j.D,70,7,7,-,
+Duo Lon,Hop D,68,7,7,-,
+Duo Lon,s.CD,75,10,12,-1,
+Duo Lon,j.CD,90,7,10,-,
+Duo Lon,Hop CD,80,7,10,-,
+Duo Lon,Normal Throw,100,0,1,-,Hard knockdown
+Duo Lon,GCCD,4,0,13,-15,17 on startup vs jump attacks?
+Duo Lon,Genmu Kyaku = f.B,30,5,13,1,4 frames from afar & no cancel
+Duo Lon,Air Genmu Kyaku = air f.B,40,5,11,-,"12 Blockstun, 14 Hitstun"
+Duo Lon,Genmu Ken = f.A,40,4,9,-4,4 frames from afar & no cancel
+Duo Lon,Air Genmu Ken = air f.A,40,3,8,-,"12 Blockstun, 14 Hitstun"
+Duo Lon,Suteki Juryu (1st and 2nd hit) = qcf+P x3,30,3,7,-8,2nd hit -11
+Duo Lon,Suteki Juryu (3rd hit) = qcf+P x3,40,6,-,-26,B Himoukyaku -13
+Duo Lon,Juon Shikon = qcb P,60,6,"21,44","+4, 21",Close
+Duo Lon,Himoukyaku Zen = qcf K,0,0,-,-,"B All frames 29, D All frames 39"
+Duo Lon,Himoukyaku Go = qcb K,0,0,-,-,B All frames 47
+Duo Lon,Ex Genmu Kyaku = f.BD,60,0,8,2,4 frames from afar & no cancel
+Duo Lon,Air Ex Genmu Kyaku = air f.BD,60,0,8,-,"24 Blockstun, 25 Hitstun"
+Duo Lon,Ex Genmu Ken (1st hit) = f.AC,40,0,6,-,4 frames from afar & no cancel
+Duo Lon,Ex Genmu Ken (2nd hit) = f.AC,40,0,-,2,
+Duo Lon,Air Ex Genmu Ken = air f.AC,80,0,6,-,"12 Blockstun, 14 Hitstun"
+Duo Lon,Ex Suteki Juryu (1st hit) = qcf AC x3,60,0,5,-4,
+Duo Lon,Ex Suteki Juryu (2nd hit) = qcf AC x3,40,0,-,-1,
+Duo Lon,Ex Suteki Juryu (3rd hit) = qcf AC x3,50,0,-,-26,
+Duo Lon,Ex Juon Shikon (1 hit) = qcb AC,40,0,39,-,Close
+Duo Lon,Ex Juon Shikon (2-5th hit) = qcb AC,40,0,-,-,
+Duo Lon,Ex Hike Kyaku Zen = qcf BD,0,0,-,-,All frames 24
+Duo Lon,Ex Hike Kyaku Ushiro = qcb BD,0,0,-,-,All frames 32
+Duo Lon,Genmu Bakko Shikon = qcb~hcf+P,200,0,43(14),-9,Freeze 29
+Duo Lon,Ex Genmu Bakko Shikon (1st hit) = qcb~hcf+AC,60,0,34(5),-17,Freeze 29
+Duo Lon,Ex Genmu Bakko Shikon (2nd and 3rd hit) = qcb~hcf+AC,60,0,-,-,
+Duo Lon,Ex Genmu Bakko Shikon (4th hit) = qcb~hcf+AC,120,0,-,-,
+Duo Lon,Juon Ko Ha = hcb x2+AC,448,0,1,-,"Whiff all frames 117, Freeze 39"
+Duo Lon,,,,,,
+Duo Lon,

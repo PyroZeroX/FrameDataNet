@@ -1,0 +1,63 @@
+fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Athena,cl.A,25,3,4,0,
+Athena,cr.A,25,3,4,3,
+Athena,st.A,25,3,4,0,
+Athena,j.A,45,3,6,-,
+Athena,h.A,40,3,6,-,
+Athena,cl.B,30,3,5,-2,
+Athena,cr.B,30,3,4,0,
+Athena,st.B,30,3,5,-2,
+Athena,j.B,45,3,6,-,
+Athena,h.B,40,3,6,-,
+Athena,cl.C,70,7,5,-1,
+Athena,cr.C,70,7,6,-5,
+Athena,st.C,80,7,6,-4,
+Athena,j.C,72,7,8,-,
+Athena,h.C,70,7,8,-,
+Athena,cl.D,80,7,5,-6,
+Athena,cr.D,80,7,8,-3,
+Athena,st.D,80,7,10,-6,
+Athena,JD,70,7,7,-,
+Athena,h.D,68,7,7,-,
+Athena,CD,75,10,12,1,hit with tip, up to +7F
+Athena,j.CD,90,8,10,-,
+Athena,h.CD,80,8,9,-,
+Athena,Phoenix Bomb,50,4,20,-20,
+Athena,Air Phoenix Bomb,60,4,10,-,Normal 2F, Cancel 6F
+Athena,Throw,100,0,1,-,Hard knock down
+Athena,GCCD,4,0,13,-15,Startup Vs. wk 13,St 17,Jump 17
+Athena,A Psycho Ball,65,4,16,-1,+6?Full animation 45F
+Athena,C Psycho Ball,80,4,13,-7,Full animation 48F
+Athena,A Psycho Sword1,50,5,4,-,
+Athena,A Psycho Sword2,3,20,3,-,-35,
+Athena,C Psycho Sword1,65,5,8,-,
+Athena,C Psycho Sword2-5,20,3,-,-54,
+Athena,Psycho Reflector,60,8,11,1,no chip dmg, reflection 4F? reflection recovery 12F
+Athena,B Phoenix Arrow,20,1,5,-2~-4,-frames vary on how it hits
+Athena,D Phoenix Arrow,20,1,-,-,lowest pt in air B arrow 31F(includes backstep)
+Athena,D Phoenix Arrow2,60,8,-,-25,
+Athena,Psychic Throw (fall),125,0,7,-,whiff 42F
+Athena,Psychic Throw,0,0,-,-,
+Athena,Psychic Teleport,0,0,-,-,wk animation 33F?st animation 45F
+Athena,EX Psycho Ball1,48,0,32,-,
+Athena,EX Psycho Ball2,3,48,0,-,23,
+Athena,EX Psycho Sword1,80,0,6,-,
+Athena,EX Psycho Sword2-3,35,0,-,-,
+Athena,EX Psycho Sword4,48,0,-,-,
+Athena,EX Psycho Sword5,35,0,0,-38,
+Athena,EX Psycho Reflector,100,0,11,5,no chip dmg, reflection 2F?reflection recovery 3F
+Athena,EX Phoenix Arrow,20,0,5,-,
+Athena,EX Phoenix Arrow,20,0,-,-,
+Athena,EX Phoenix ArrowN2,90,0,-,-2,
+Athena,EX Psychic Throw,80,0,3,-,whiff 38F
+Athena,EX Psychic Throw,60,0,-,-,
+Athena,EX Psychic Teleport,0,0,26,-,full animation 26F(excluding slide)
+Athena,Shining Crystal Bit,210,0,34(5),-30,Freeze 29?air startup 33(4)
+Athena,EX Shining Crystal Bit1,10,0,32(3)),-,Freeze 29
+Athena,EX Shining Crystal Bit2-26,10,0,-,-,
+Athena,EX Shining Crystal Bit27,60,0,-,-32,
+Athena,PM13 1,10,0,36(7),-24,Freeze 29
+Athena,Psycho Medley 13 2-11,10,0,-,-,
+Athena,Psycho Medley 13 12-24,20,0,-,-,
+Athena,Psycho Medley 13 25,60,0,-,-,
+

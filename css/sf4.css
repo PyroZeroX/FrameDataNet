@@ -1,0 +1,49 @@
+#jPanelMenu-menu, .navbar-inner, .navbar-inverse
+{ 
+    background: #3A649E;
+    background-image: linear-gradient(to bottom, #325CAB, #2F669C);
+}
+
+#jPanelMenu-menu li:nth-child(odd) {
+    background-color: #0080FF;
+    }
+
+
+.bold
+{
+    color: #2F669C;
+}
+
+.fightermove h1
+{
+    overflow-wrap: break-word;
+}
+
+.clearnav
+{
+    border: 1px solid #2F669C;
+}
+
+.fightermove h2
+{
+    color: #2F669C;
+}
+
+@media (min-width: 980px) {
+    .fightermove{
+        border-bottom: 2px solid #2F669C;
+        min-height: 300px;
+    }
+
+    .clearnav
+    {
+		border: 0px solid #2F669C;
+    }
+
+    #jPanelMenu-panel
+    {
+        padding: 0 1em 1em 1em;
+    }
+}
+
+.Ultra{color: #AFA240;}

@@ -1,0 +1,63 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Saiki,cl.A,25,3,4,3,
+Saiki,cr.A,25,3,4,3,
+Saiki,st.A,25,3,4,3,
+Saiki,j.A,45,3,5,-,
+Saiki,hop A,40,3,5,-,
+Saiki,st.B,30,3,5,1,Low attack
+Saiki,cr.B,30,3,5,1,
+Saiki,j.B,45,3,5,-,
+Saiki,hop B,40,3,5,-,
+Saiki,cl.C,70,7,4,-4,
+Saiki,cr.C,70,7,5,-10,
+Saiki,st.C,80,7,7,-5,
+Saiki,j.C,72,7,7,-,
+Saiki,hop C,70,7,7,-,
+Saiki,cl.D,80,7,5,-3,Low attack
+Saiki,cr.D,80,7,7,-8,
+Saiki,st.D,80,7,7,0,
+Saiki,j.D,70,7,8,-,
+Saiki,hop D,68,7,8,-,
+Saiki,st.CD,75,10,12,-4,
+Saiki,j.CD,90,8,11,-,
+Saiki,hop CD,80,8,11,-,
+Saiki,In,50,6,7,-,Landing recovery 7
+Saiki,Hatsu,50,4,6,-,Landing recovery 7
+Saiki,Normal Throw,100,0,1,-,
+Saiki,GCCD,4,0,13,-15,"Startup vs: Wk 13, St 17, Jump Atk 17"
+Saiki,A Kiyoki no Tsuki,60,4,15,-1,Close All frames 44
+Saiki,C Kiyoki no Tsuki,70,4,14,-,All frames 40
+Saiki,B Hanetsurube no Nata,70,4,6,-37,"Forefront damage 50, Stun 3"
+Saiki,D Hanetsurube no Nata(1),50,6,11,-,"Forefront damage 30, Stun 3"
+Saiki,D Hanetsurube no Nata(2),30,4,-,-31,
+Saiki,? Kasahazushi-no-Tsuchi,50,6,-,-,
+Saiki,B Hiori-no-Kusabi,60,4,11,-12,
+Saiki,D Hiori-no-Kusabi,60,4,20,-20,
+Saiki,? Ura Shichiri,0,0,-,-,
+Saiki,Shichiri-Gake,0,0,-,-,
+Saiki,EX Kiyoki no Tsuki(1),30,0,11,-,Close
+Saiki,"EX Kiyoki no Tsuki(2,3)",40,0,-,9,
+Saiki,EX Hanetsurube no Nata(1),90,0,6,-,
+Saiki,EX Hanetsurube no Nata(2-5),15,0,-,-30,
+Saiki,?EX Kasahazushi noTsuchi(1-3),20,0,-,-,
+Saiki,?EX Kasahazushi no Tsuchi(4),80,0,-,-,
+Saiki,EX Hiori no Kusabi,120,0,19,-22,
+Saiki,Washiba Otoshi(1),60,0,33(4),-,Freeze 29
+Saiki,Washiba Otoshi(2?3),20,0,-,-,
+Saiki,Washiba Otoshi(4),50,0,-,-,
+Saiki,Washiba Otoshi(5),60,0,-,-35,
+Saiki,Yami Otoshi(1),100,0,36(7),-,Lowest point in air ?Freeze 29
+Saiki,Yami Otoshi(2),100,0,-,-36,
+Saiki,Tokoyami no Fune(1),12,0,68(39),-,Close? Freeze 29
+Saiki,Tokoyami no Fune(2-13),12,0,-,5,
+Saiki,Kyoryuu no Ori(1),10,0,30(1),-,"Freeze 29, Whiff 60"
+Saiki,Kyoryuu no Ori(2-12),10,0,-,-,
+Saiki,Kyoryuu no Ori(13),60,0,-,-,
+Saiki,EX Kyoryuu no Ori(1),20,0,30(1),-,"Freeze 29, Freeze 60"
+Saiki,EX Kyoryuu no Ori(2-13),20,0,-,-,
+Saiki,EX Kyoryuu no Ori(14),40,0,-,-,
+Saiki,Kasumi(1),31,0,108(18),-,"Freeze 90, 17 startup based on position?"
+Saiki,Kasumi(2-13),31,0,-,-,
+Saiki,Kasumi(14-16),15,0,-,-,
+Saiki,,,,,,
+Saiki,

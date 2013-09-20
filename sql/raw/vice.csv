@@ -1,0 +1,54 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Vice,cl.A,25,3,4,2,
+Vice,cr.A,25,3,5,1,
+Vice,st.A,25,3,4,2,
+Vice,j.A,45,3,5,-,
+Vice,hop A,40,3,5,-,
+Vice,st.B,30,3,6,-2,
+Vice,cr.B,30,3,6,1,
+Vice,far B,30,3,6,-2,
+Vice,j.B,45,3,6,-,
+Vice,hop B,40,3,6,-,
+Vice,cl.C,70,7,7,-2,
+Vice,cr.C,70,7,6,-9,
+Vice,st.C,80,7,7,-1,Long reach hits crouchers
+Vice,j.C,72,7,6,-,
+Vice,hop C,70,7,6,-,
+Vice,cl.D (1),80,7,5,0,
+Vice,cl.D (2),80,7,-,-7,
+Vice,cr.D,80,7,8,-4,
+Vice,far D,80,7,8,-7,Long reach hits crouchers
+Vice,j.D,70,7,6,-,
+Vice,hop D,68,7,6,-,
+Vice,st.CD,75,10,15,-1,
+Vice,j.CD,90,8,8,-,
+Vice,hop CD,80,8,7,-,
+Vice,????(?,70,6,20,-5,
+Vice,????(c,45,6,15,-4,
+Vice,?????,100,0,1,-,
+Vice,GCCD,4,0,13,-15,"Startup vs: Wk14, St18, Jump Atk 18"
+Vice,Decide,0,0,"16,22",-15,"Wk 16, St 22 (s.D,f.B,Decide safe vs most chrs)"
+Vice,Gorefest(1-6),20,0,1,-7,Whiff all frames 36
+Vice,Gorefest(7),40,0,-,-,
+Vice,Splash,80,0,"23,32,27,35",-,"Vs Iori: s.A, S.C, d.A, d.C"
+Vice,A Mayhem,60,6,8,-15,
+Vice,C Mayhem,90,10,16,-8,
+Vice,?Splash,80,0,-,-,
+Vice,EX Decide,0,0,12,-12,
+Vice,EX Gorefest(1),25,0,1,-,Whiff all frames 36
+Vice,EX Gorefest(2-6),25,0,-,-,
+Vice,EX Gorefest(7),70,0,-,-,
+Vice,EX Splash,150,0,21,-,
+Vice,EX Mayhem,120,0,14,-14,
+Vice,?EX Splash,80,0,-,-,
+Vice,Negative Gain(1),70,0,30(1),-,Freeze 29
+Vice,Negative Gain(2),70,0,10,-,Whiff all frames 74(45)
+Vice,Negative Gain(3),80,0,-,-,
+Vice,Overkill,200,0,30(1),-,Freeze 29
+Vice,EX Negative Gain(1),60,0,30(1),-,Freeze 29
+Vice,EX Negative Gain(2-5),60,0,-,-,Whiff all frames 74(45)
+Vice,EX Negative Gain(6),100,0,-,-,
+Vice,Awakening Blood,450,0,125(17),-55,"Freeze 108, Opponent in corner"
+Vice,?Awakening Blood,450,0,-,-,"Vice in Corner 113(5), Completely invincible"
+Vice,,,,,,
+Vice,

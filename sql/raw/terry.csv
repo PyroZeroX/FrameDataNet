@@ -1,0 +1,58 @@
+Terry,Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Terry,cl.A,25,3,4,2,
+Terry,cr.A,25,3,4,1,
+Terry,st.A,25,3,4,2,
+Terry,j.A,45,3,6,-,
+Terry,hop A,40,3,6,-,
+Terry,cl.B,30,3,6,2,
+Terry,cr.B,30,3,4,-1,
+Terry,st.B,30,3,6,2,
+Terry,j.B,45,3,5,-,
+Terry,hop B,40,3,5,-,
+Terry,cl.C (1),55,6,4,-,
+Terry,cl.C (2),25,4,-,-2,
+Terry,cr.C,70,7,7,-6,
+Terry,st.C (Far),80,7,7,-6,
+Terry,j.C,72,7,6,-,
+Terry,hop C,70,7,6,-,
+Terry,cl.D,70,7,5,-8,
+Terry,cr.D,80,7,10,-15,
+Terry,st.D (Far),80,7,11,-2,
+Terry,j.D,70,7,8,-,
+Terry,hop D,68,7,8,-,
+Terry,CD,75,10,14,-1,+6,-1 min range, +6 max range
+Terry,JCD,90,8,10,-,
+Terry,hop CD,80,8,10,-,
+Terry,Back Knuckle,70,8,14,-13,
+Terry,Rising Upper,60,6,4,-11,
+Terry,Buster Throw,100,0,1,-,Hard Knockdown
+Terry,GCCD,4,0,15,-15,
+Terry,A Power Wave,60,6,17,-1, +23,-1 Min Range, +23 Max Range (Full screen)
+Terry,C Power wave,60,8,18,-9, +0,-9 min range, + 23 Max Range (Half Screen)
+Terry,A Burn Knuckle,75,8,15,-10,-3,-10 min range, -3 max range (4 char lengths)
+Terry,C Burn Knuckle,90,8,28,-26, -12,-26 min range, -12 max range (Full screen)
+Terry,B Crack shoot,40,4,13,-,
+Terry,B Crack shoot (2),40,4,-,-2, +0,-2 if blocked standing, +0 if blocked crouching
+Terry,D Crack shoot (1),40,4,15,-,
+Terry,D Crack Shoot (2-3),40,4,-,-1, +2,-1 if blocked standing, +2 if blocked crouching, combos with cl. normals if hit while crouching
+Terry,A Rising Tackle (1),40,4,5,-,
+Terry,A Rising Tackle (2-5),10,1,-,-26,Varies depending on position
+Terry,C Rising Tackle (1),50,6,7,-,
+Terry,C Rising Tackle (2-7),15,1,-,-49,Varies depending on position
+Terry,Power Wave EX (1),45,0,22,-,
+Terry,Power Wave EX (2-3),45,0,-,+27,+78,+27 min range, +78 max Range
+Terry,Burn Knuckle EX,160,0,14,-17, -1,-17 min range, -1 max range
+Terry,Crack Shoot EX,120,0,14,-10, -4,Overhead, -10 min range, -4 max range, Hard KD
+Terry,Rising Tackle EX (1),20,0,4,-,
+Terry,Rising Tackle EX (2-7),20,0,-,-,
+Terry,Rising Tackle EX (8-17),10,0,-,-56,
+Terry,Buster Wolf (B, D) (1),90,0,37(7),-,30F Freeze
+Terry,Buster Wolf (B, D) (2),90,0,-,-15,
+Terry,Power Geyser (A,C),210,0,46(16),-9,30F Freeze
+Terry,Buster Wolf EX (1),90,0,37(7),-,30F Freeze
+Terry,Buster Wolf EX (2-5),30,0,-,-,
+Terry,Buster Wolf EX (6),90,0,-,-18,
+Terry,Power Geyser EX (1),120,0,40(10),-,Freeze 30
+Terry,Power Geyser EX (2-3),120,0,-,-12,
+Terry,Trinity Geyser (1),150,0,90(14),-,76F Freeze
+Terry,Trinity Geyser (2-3+),150,0,-,-36,At certain spacing after HD/Max Cancel, can hit more times.

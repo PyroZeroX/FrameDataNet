@@ -1,0 +1,56 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Takuma,cl.A,25,3,4,1,
+Takuma,cr.A,25,6,3,1,
+Takuma,st.A,25,3,4,1,
+Takuma,j.A,45,3,6,-,
+Takuma,hop A,40,3,6,-,
+Takuma,st.B,30,6,5,0,
+Takuma,cr.B,30,3,4,0,
+Takuma,j.B,45,3,4,-,
+Takuma,hop B,40,3,4,-,
+Takuma,cl.C,70,7,4,-2,
+Takuma,cr.C,70,7,7,-13,
+Takuma,st.C,80,7,8,-4,
+Takuma,j.C,72,7,9,-,
+Takuma,hop C,70,7,9,-,
+Takuma,cl.D,80,7,13,2,
+Takuma,cr.D,80,7,7,-10,
+Takuma,st.D,80,7,13,2,
+Takuma,j.D,70,7,8,-,
+Takuma,hop D,68,7,8,-,
+Takuma,st.CD,75,10,18,-1,
+Takuma,j.CD,90,8,9,-,
+Takuma,hop CD,80,8,9,-,
+Takuma,Sokutougeri (f.B),70,6,18,-7,
+Takuma,Normal Throw,100,0,1,-,Hard knockdown
+Takuma,GCCD,4,0,13,-15,"Startup vs: Wk 13, St 17, Jump Atk 17"
+Takuma,Kouou Ken,65,6,"13,18","-9,-8","Close Wk,St"
+Takuma,B Kyokugen Kouou,70,4,14,-8,
+Takuma,D Kyokugen Kouou,85,4,20,-10,
+Takuma,B Hienshippu Kyaku,50,4,9,-7,
+Takuma,D Hienshippu Kyaku(1),60,4,16,-,
+Takuma,D Hienshippu Kyaku(2),70,4,-,-9,
+Takuma,Zanretsuken(1),0,0,10,-,
+Takuma,"Zanretsuken(2,4,6)",25,0,-,-,
+Takuma,"Zanretsuken(3,5)",20,0,-,-,
+Takuma,Zanretsuken(7),30,0,-,-6,
+Takuma,Kyokugen Hougeki (hcb.K),0,0,8,10,Whiff 38
+Takuma,EX Kou Ou Ken,120,0,18,-1,Close
+Takuma,EX Kyokugen Kou Ou,140,0,26,-3,
+Takuma,EX Hienshippu Kyaku(1),60,0,12,-,
+Takuma,EX Hienshippu Kyaku(2),80,0,-,-2,
+Takuma,EX Zanretsuken (1),0,0,15,-,Number of hits dependent on distance
+Takuma,EX Zanretsuken (2-14),18,0,-,-,
+Takuma,EX Zanretsuken (15),49,0,-,-9,
+Takuma,EX Kykugen Hougeki,0,0,6,26,Whiff 36
+Takuma,Haoh Shikou Ken,230,0,"47(18), 45(16)",-20,Freeze 29
+Takuma,Ryuuko Ranbu(1),0,0,"35(6), 40(11)",-19,Freeze 29
+Takuma,Ryuuko Ranbu(2-12),10,0,-,-,
+Takuma,Ryuuko Ranbu(13),30,-,-,-,
+Takuma,Ryuuko Ranbu(14),100,0,-,-,
+Takuma,EX?Haoh Shikou Ken(1),120,0,45(16),-,Freeze 29
+Takuma,"EX Haoh Shikou Ken(2,3)",120,0,-,-42,
+Takuma,Built Upper(1),0,0,34(5),-,Freeze 29
+Takuma,Built Upper(2),450,0,-,-,
+Takuma,,,,,,
+Takuma,

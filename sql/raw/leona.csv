@@ -1,0 +1,56 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Leona,s.A,25,3,4,3,
+Leona,d.A,25,3,5,1,
+Leona,Far A,25,3,4,3,
+Leona,j.A,45,3,5,-,
+Leona,hop A,40,3,5,-,
+Leona,s.B,30,3,5,0,
+Leona,d.B,30,3,4,2,
+Leona,Far B,30,3,5,0,
+Leona,j.B,45,3,4,-,
+Leona,hop B,40,3,4,-,
+Leona,s.C (1),40,8,7,-,
+Leona,s.C (2),40,4,-,-4,
+Leona,d.C,70,7,4,-18,
+Leona,Far C,80,7,8,-2,
+Leona,j.C,72,7,7,-,
+Leona,hop C,70,7,5,-,
+Leona,s.D (1),40,8,6,-,
+Leona,s.D (2),40,4,-,-2,
+Leona,Far D,80,7,8,-9,
+Leona,d.D,80,7,10,-3,
+Leona,j.D,70,7,4,-,u.j.D is instant
+Leona,hop D,68,7,4,-,
+Leona,st.CD,75,10,14,-1,
+Leona,j.CD,90,8,16,-,
+Leona,hop CD,80,8,16,-,
+Leona,Strike Arch (stand alone),70,8,19,-7,
+Leona,Strike Arch (canceled into),50,4,13,-4,
+Leona,Leona Crush (throw),100,0,1,-,Apple Juice!
+Leona,GCCD,4,0,13,-15,"vs attacks: Weak 13, Strong 17, Jump 17"
+Leona,A Baltic Launcher1,20,1,27,-,
+Leona,A Baltic Launcher2-9,20,1,-,11,
+Leona,C Baltic Launcher1,20,1,22,-,+6 when close as possible
+Leona,C Baltic Launcher2-13,20,1,-,20,Close as possible in corner +2
+Leona,Moon Slasher,80,8,7,"-23,-34",
+Leona,Earing Bomb,65,8,"40,45","+11,+8","Touching?Full animation 55,63,(12 Eyes flash)"
+Leona,Grand Saber,70,6,"19,23","-11,0",
+Leona,X-Calibur,60,8,"11,17","-24,-4?",When touching 20
+Leona,EX Baltic Launcher1,25,0,23,-,
+Leona,EX Baltic Launcher2-13,25,0,-,29,
+Leona,EX Moon Slasher,160,0,4,-30,
+Leona,EX Earing Bomb,120,0,12,-2,Touching
+Leona,EX Grand Saber1,90,0,15,-,
+Leona,EX Grand Saber2,90,0,-,3,
+Leona,EX X-Calibur1,25,0,22,-,
+Leona,EX X-Calibur2-6,25,0,-,34,
+Leona,V Slasher,220,0,33(4),-46,Freeze 29
+Leona,Slash Saber1,0,0,46(11),-14,Freeze 30
+Leona,Slash Saber2-8,20,0,-,-,
+Leona,Slash Saber9,60,0,-,-,
+Leona,EX V Slasher1,0,0,34(5),-20,Freeze 29
+Leona,EX V Slasher2,340,0,-,-,
+Leona,Leona Blade,450,0,144(10),-22,Freeze 134
+Leona,Leona Blade (graze),180,0,-,-,
+Leona,,,,,,
+Leona,

@@ -1,0 +1,76 @@
+fighter,Move,Damage,Stun,Startup,On Guard,Remarks
+Hwa Jai,cl.A,25,3,5,2,
+Hwa Jai,cr.A,25,3,4,3,
+Hwa Jai,st.A,25,3,5,2,
+Hwa Jai,j.A,45,3,7,-,
+Hwa Jai,h.A,40,3,7,-,
+Hwa Jai,cl.B,30,3,5,1,
+Hwa Jai,cr.B,30,3,4,3,
+Hwa Jai,st.B,30,3,5,1,
+Hwa Jai,j.B,45,3,7,-,
+Hwa Jai,hop B,40,3,6,-,
+Hwa Jai,cl.C,70,7,5,1,
+Hwa Jai,cr.C,70,7,5,0,
+Hwa Jai,st.C,80,7,6,1,
+Hwa Jai,j.C,72,7,8,-,
+Hwa Jai,hop C,70,7,8,-,
+Hwa Jai,cl.D,80,7,6,0,
+Hwa Jai,cr.D,80,7,7,0,
+Hwa Jai,st.D,80,7,7,-1,
+Hwa Jai,j.D,70,7,7,-,
+Hwa Jai,hop D,68,7,7,-,
+Hwa Jai,st.CD,75,10,14,4,
+Hwa Jai,j.CD,90,8,9,-,
+Hwa Jai,hop CD,80,8,9,-,
+Hwa Jai,Slide,40,6,6,-4,"Close,forefront +5"
+Hwa Jai,"Kubizumou1,2 (throw)",30,0,1,-,
+Hwa Jai,Hizajigoku (throw finish),48,0,-,-,
+Hwa Jai,GCCD,4,0,13,-15,"Startup vs wk 13, st 17, Jump 17 attacks"
+Hwa Jai,B Dragon Kick,70,6,8,-33,Drunk 7/-40
+Hwa Jai,D Dragon Kick1,70,6,15,-,Drunk 13/
+Hwa Jai,D Dragon Kick2,70,6,-,-10,Forefront -1
+Hwa Jai,B Air Dragon Kick,70,6,12,4,Lowest point in air
+Hwa Jai,D Air Dragon Kick,70,6,16,-25,Lowest point in air
+Hwa Jai,B Dragon Tail,65,6,17,-2,"at most, 0 on guard w/ forefront on croucher"
+Hwa Jai,D Dragon Tail1,50,4,"24,27,21,23",-,"Standing, Crouching, Drunk Standing, Drunk Crouching"
+Hwa Jai,D Dragon Tail2-4,50,4,"+2,+5",-,"One hit -2, Crouching forefront 4, Drunk"
+Hwa Jai,B Air Dragon Tail,65,6,10,Max 7,Landing recovery 9
+Hwa Jai,D Air Dragon Tail,70,6,25,-,Landing recovery 9
+Hwa Jai,Bakuretsuken1,20,1,10,-,Crouching startup 16
+Hwa Jai,A Bakuretsuken2-3,20,1,-,-1,"A,C"
+Hwa Jai,C Bakuretsuken2-6,20,1,-,-2,
+Hwa Jai,Finish1,20,1,5,-,
+Hwa Jai,Finish2,40,6,-,-14,
+Hwa Jai,B Drink D Tail1,40,3,"15,17",-,"Standing, Crouching"
+Hwa Jai,B Drink D Tail2,40,3,-,-2,
+Hwa Jai,EX Dragon Kick1,90,0,12,-,
+Hwa Jai,"EX Dragon Kick2,3",50,0,-,-,"Lowest point in air -5, Landing recovery 17"
+Hwa Jai,EX Air Dragon Kick1,90,0,13,-,
+Hwa Jai,"EX Air Dragon Kick2,3",40,0,-,-,"Lowest point in air -5, Landing recovery 17"
+Hwa Jai,EX Dragon Tail1,50,0,14,-,
+Hwa Jai,"EX Dragon Tail2,3",50,0,-,1,
+Hwa Jai,EX Air Dragon Tail1,90,0,8,-,
+Hwa Jai,EX Air Dragon Tail2,90,0,-,-8,
+Hwa Jai,EX Bakuretsuken1,20,0,6,-,Crouching startup 12
+Hwa Jai,"EX Bakuretsuken2,3",20,0,-,-,
+Hwa Jai,EX Bakuretsuken4,30,0,-,-,
+Hwa Jai,EX Bakuretsuken5,50,0,-,-3,
+Hwa Jai,Dragon Back Breaker1,50,0,"31(2),47(18)",-,"Freeze 29, Weak, Strong"
+Hwa Jai,Dragon Back Breaker2,200,0,-,-12,All frames (whiff) 73(44)
+Hwa Jai,Dragon Back Breaker1 Drunk,44,0,"31(2),47(18)",-,"Freeze 29, Weak, Strong"
+Hwa Jai,Dragon Back Breaker2 Drunk,200,0,-,-,Whiff 73(44)
+Hwa Jai,Dragon Back Breaker 3 Drunk,55,0,-,-,
+Hwa Jai,Dragon Dance1,0,0,38(7),-34,Freeze 31
+Hwa Jai,Dragon Dance2-10,10,0,-,-,
+Hwa Jai,Dragon Dance11-14,20,0,-,-,
+Hwa Jai,Dragon Dance15,40,0,-,-,
+Hwa Jai,Drinking,60,0,82(30),-,Freeze 52
+Hwa Jai,EX Dragon Dance1,0,0,35(4),-34,Freeze 31
+Hwa Jai,EX Dragon Dance2-10,10,0,-,-,
+Hwa Jai,EX Dragon Dance11-16,20,0,-,-,
+Hwa Jai,EX Dragon Dance17,90,0,-,-,
+Hwa Jai,Final Dragon Kick A,450,0,38(8),-,"Close, Freeze 30"
+Hwa Jai,Final Dragon Kick B1,40,0,-,-,Freeze 30
+Hwa Jai,Final Dragon Kick B2-9,40,0,-,-22,
+Hwa Jai,,,,,,
+Hwa Jai,

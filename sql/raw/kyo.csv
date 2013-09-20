@@ -1,0 +1,64 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Kyo,cl.A,25,3,5,3,
+Kyo,cr.A,25,3,5,1,
+Kyo,st.A,25,3,5,3,
+Kyo,j.A,45,3,6,-,
+Kyo,h.A,40,3,6,-,
+Kyo,cl.B,30,3,6,-1,
+Kyo,cr.B,30,3,4,1,
+Kyo,st.B,30,3,6,-1,
+Kyo,j.B,45,3,5,-,
+Kyo,hop B,40,3,5,-,
+Kyo,cl.C,70,7,3,0,
+Kyo,cr.C,70,7,5,-8,
+Kyo,st.C,80,7,10,-9,
+Kyo,j.C,72,7,6,-,
+Kyo,hop C,70,7,6,-,
+Kyo,cl.D,80,7,8,-3,
+Kyo,cr.D,80,7,8,-8,
+Kyo,st.D,80,7,8,-3,
+Kyo,j.D,70,7,8,-,
+Kyo,hop D,68,7,8,-,
+Kyo,st.CD,75,10,15,-1,
+Kyo,j.CD,90,8,13,-,
+Kyo,hop CD,80,8,10,-,
+Kyo,Naraku Otoshi = j.2C,50,12,8,-,
+Kyo,Goufu You (Cancel),75,4,-,-,
+Kyo,Goufu You ?No Cancel),60,8,19,-2,
+Kyo,88 Shiki1 = df+D,30,4,9,-19,Recover for whiff of 2nd hit
+Kyo,88 Shiki Kai2,42,4,-,11,
+Kyo,88 Shiki Kai(2),45,4,-,-11,
+Kyo,Issetsu Seoi Nage = b/f+C/D,100,0,1,-,Hard knockdown
+Kyo,GCCD,4,0,13,-15,17 Frame startup vs jump atk?
+Kyo,A Yamibarai,60,4,16,-2,Close
+Kyo,C Yamibarai,60,4,15,-5,Close
+Kyo,A Oniyaki1,55,5,4,-30,
+Kyo,A Oniyaki2,25,2,-,-,
+Kyo,C Oniyaki1,80,4,7,-44,
+Kyo,C Oniyaki2?3,25,2,-,-,
+Kyo,Kototsuki1,30,0,14,-8,
+Kyo,Kototsuki2,135,0,14,-8,
+Kyo,B 75 Shiki Kai1-2,35,4,12,-1,
+Kyo,D 75 Shiki Kai1-2,30,4,18,-3,
+Kyo,B Oboroguruma,40,6,10,-11,
+Kyo,"D Oboroguruma1,2",40,4,13,-,
+Kyo,D Oboroguruma3,70,12,-,-,
+Kyo,EX Yamibarai,100,0,13,5,Close
+Kyo,EX Oniyaki1,70,0,4,-,
+Kyo,EX Oniyaki2-10,20,0,-,-,
+Kyo,EX Kototsuki,180,0,4,-,
+Kyo,EX 75 Shiki Kai1,40,0,18,-,
+Kyo,EX 75 Shiki Kai2,40,0,-,1,
+Kyo,EX Oboroguruma1,60,0,10,-,
+Kyo,EX Oboroguruma2,60,0,-,-,
+Kyo,EX Oboroguruma3,100,0,-,-,
+Kyo,Orochinagi,210,0,46(17),-20,Freeze 29. w Slight charge 40(11)
+Kyo,Air Orochinagi,180,0,41(12),-,Freeze 29
+Kyo,EX Orochinagi1,120,0,38(9),-,Freeze 29. w Slight charge (2)
+Kyo,"EX Orochinagi2,3",120,0,-,-,
+Kyo,EX Air Orochinagi1,100,0,36(7),-,Freeze 29
+Kyo,"EX Air Orochinagi2,3",100,0,-,-,
+Kyo,Ama no Murakumo1,45,0,47(7),-,Freeze 40
+Kyo,Ama no Murakumo2-10,42,0,-,-,
+Kyo,,,,,,
+Kyo,

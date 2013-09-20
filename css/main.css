@@ -1,0 +1,251 @@
+/*
+Size defintions
+Large display: 1200px and up
+Default: 980px and up
+Portrait tablets: 768px
+Phones to tablets: 767px
+Phones: 480px and below
+*/
+
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('../fonts/BebasNeue-webfont.eot');
+    src: url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/BebasNeue-webfont.woff') format('woff'),
+         url('../fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h3, .nav-brand
+{
+    font-family: 'BebasNeueRegular', Helvetica;
+}
+
+.flame
+{
+    width:21px;
+    height:26px;
+    background:url(../img/flame.png) 0 0;
+}
+
+.nav-brand
+{
+    margin-top:15px;
+    font-size:28pt;
+}
+
+#jPanelMenu-menu, .navbar-inner, .navbar-inverse
+{ 
+    background: #5F9E3A;
+    background-image: linear-gradient(to bottom, #5EAB32, #579C2F);
+    overflow: hidden;
+}
+#jPanelMenu-menu ul
+{ 
+    width: 90%;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+
+}
+#jPanelMenu-menu ul li a
+{
+    font-family: 'BebasNeueRegular';
+
+    color: #fff;
+    padding-top: 10px;
+    font-size: 20pt;
+}
+
+#jPanelMenu-menu ul li
+{ 
+    padding: 10px 0px 10px 0px;
+    width: 100%;
+    text-align: center;
+
+}
+
+#jPanelMenu-menu li:nth-child(odd){
+    background-color: #62BF2C;
+
+}
+
+#jPanelMenu-menu li:nth-child(even){
+}
+
+#jPanelMenu-menu hr
+{
+    border-top: 1px solid #aeaeae;
+    border-bottom: none;
+    padding: 0;
+    margin: 0;
+    width: 50%;
+}
+
+body
+{
+    width:90%;
+    background: #E8E8E8;
+    line-height: 0;
+}
+
+p
+{
+    line-height: 20px;
+}
+
+.menu
+{
+    padding: 10px 20px 10px 10px;
+    border-right: 2px solid #fff;
+    float: left;
+}
+
+.headerunit
+{
+    margin:25px 15px;
+    float: left;
+    font-size: 20pt;
+    color: #fff;
+}
+
+.bold
+{
+    font-weight: bold;
+    color: #579C2F;
+}
+
+th{
+    font-size: 20pt;
+    padding: 12px;
+}
+
+td
+{
+    font-size: 16pt;
+    padding: 7px;
+    text-align: center;
+}
+
+.clearnav
+{
+    clear: both;
+    border: 1px solid #579C2F;
+    width: 75%;
+    margin: 10px auto 10px;
+}
+
+@media (max-width: 767px) {
+    td, th
+    {
+        font-size: 10pt;
+    }
+}
+
+@media (max-width: 480px) {
+    body{
+        max-width: 320px;
+        width: 320px;
+    }
+}
+
+tr:nth-child(odd){ background-color: #eee;} /*alternating row colors*/
+tr:nth-child(even){ background-color: #fff;}
+
+.moveattribute
+{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.movenotes
+{
+    clear: left;
+    float: left;
+    text-align: center;
+    margin: 20px 0px 20px;
+}
+
+.fightermove
+{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.fightermove h1
+{
+    font-size: 14pt;
+}
+
+.fightermove h2
+{
+    color: #579C2F;
+    margin: 0;
+}
+
+#footer p
+{
+    font-size: 8pt;
+    font-style: italic;
+}
+
+.positive
+{
+    color: #00CC00;
+}
+
+.negative
+{
+    color: #CC0000;
+}
+
+.motion
+{
+    color: #333;
+    font-size: 0.8em;
+}
+
+.Normal{color: #333;}
+.Special{color:#516FC9;}
+.EXSpecial{color: #C95151;}
+.SpecialNormal{color: #9951C9;}
+.EXSpecialNormal{color: #51C9C3;}
+.Throw{color: #333;}
+.System{color: #333;}
+.Super{color: #5177C9;}
+.EXSuper{color: #C95151;}
+.NeoMAX{color: #AFA240;}
+.Cancel{color: #333;}
+
+@media (min-width: 980px) {
+    body{
+        padding-top: 70px;
+    }
+    #jPanelMenu-menu
+    {
+        z-index: 3 !important;
+    }
+    
+    #jPanelMenu-panel
+    {
+        padding: 0 1em 1em 1em;
+    }
+
+    .fightermove{
+        float: left;
+        width: 35%;
+        margin: 0 3% 25px;
+        border-bottom: 2px solid #579C2F;
+        min-height: 300px;
+    }
+
+    .clearnav
+    {
+     clear: none;
+     border: 0px solid #579C2F;
+     width: 0px;
+     margin: 0px auto 0px;
+    }
+}

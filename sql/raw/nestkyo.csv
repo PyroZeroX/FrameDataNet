@@ -1,0 +1,85 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+NESTS Kyo,cl.A,25,5,4,2,
+NESTS Kyo,cr.A,25,5,5,1,
+NESTS Kyo,st.A,25,3,4,2,
+NESTS Kyo,j.A,45,3,6,-,
+NESTS Kyo,h.A,40,3,6,-,
+NESTS Kyo,cl.B,30,3,7,-1,
+NESTS Kyo,cr.B,30,3,4,2,
+NESTS Kyo,st.B,30,3,7,-1,
+NESTS Kyo,j.B,45,3,5,-,
+NESTS Kyo,hop B,40,3,5,-,
+NESTS Kyo,cl.C,70,7,3,0,
+NESTS Kyo,cr.C,70,7,8,-8,
+NESTS Kyo,st.C,80,7,10,-9,
+NESTS Kyo,j.C,72,7,6,-,
+NESTS Kyo,hop C,70,7,6,-,
+NESTS Kyo,cl.D,80,7,8,-3,
+NESTS Kyo,cr.D,80,7,8,-8,
+NESTS Kyo,st.D,80,7,8,-3,
+NESTS Kyo,j.D,70,7,8,-,
+NESTS Kyo,hop D,70,7,8,-,
+NESTS Kyo,st.CD,75,10,14,1,
+NESTS Kyo,j.CD,90,8,13,-,
+NESTS Kyo,hop CD,80,8,10,-,
+NESTS Kyo,Naraku Otoshi = j.2C,50,12,7,-,
+NESTS Kyo,Goufu You (Cancel) = f+B,35,4,17,-2,
+NESTS Kyo,Goufu You ?No Cancel),60,8,19,-2,
+NESTS Kyo,88 Shiki(1) = df+D,30,4,6,-,Startup of 9 on cancel
+NESTS Kyo,88 Shiki(2),45,4,-,-11,
+NESTS Kyo,Issetsu Seoi Nage = b/f+C/D,101,0,1,-,Throw
+NESTS Kyo,GCCD,4,0,13,-15,"Startup vs Wk 13, St 17, Jump Atk 17"
+NESTS Kyo,A Oniyaki(1) = dp+A,70,6,5,-32,
+NESTS Kyo,A Oniyaki(forefront),45,3,-,-,
+NESTS Kyo,C Oniyaki(1) = dp+C,70,6,7,-,
+NESTS Kyo,C Oniyaki(2?3),45,4,-,-42,
+NESTS Kyo,Kototsuki(1) = hcb+K,30,0,16,-,Close
+NESTS Kyo,Kototsuki(2),0,0,-,-,
+NESTS Kyo,Kototsuki(3),150,0,-,-21,
+NESTS Kyo,"B 75 Shiki(1) = qcf+B,B",40,4,14,-25,No follow up
+NESTS Kyo,B Shiki(2),45,4,7,-8,Close standing guard
+NESTS Kyo,"D 75 Shiki(1) = qcf+D,D",30,4,20,-22,No follow up
+NESTS Kyo,D 75 Shiki(2),30,4,-,-4,"Close standing guard,confirmed up to -2 on delay"
+NESTS Kyo,B R.E.D. KicK = rdp+B,70,10,"20,22","-5,-3","Standing guard, Crouching guard"
+NESTS Kyo,D R.E.D. KicK = rdp+D,80,12,"33,35","-7,-5","Standing guard, Crouching guard"
+NESTS Kyo,Aragami[1] = qcf+A,40,3,11,-7,
+NESTS Kyo,?Konokizu[2] = qcf+P,45,4,-,-16,27 frames btwn the two moves
+NESTS Kyo,?Nanase[3] = K,60,4,-,-7,32 frames btwn the two moves
+NESTS Kyo,?Yanosabi[3] = P,60,6,-,,30 frames btwn the two moves
+NESTS Kyo,?Yanosabi[2] = hcb+P,60,6,-,-14,38 frames btwn the two moves
+NESTS Kyo,?Nanase[3] = K,60,4,-,-9,28 frames btwn the two moves
+NESTS Kyo,?Migiri Ugachi[3] = P,75,8,-,-19,35 frames btwn the two moves
+NESTS Kyo,Dokugami[1] = qcf+C,50,4,18,-10,
+NESTS Kyo,?Tsumiyomi[2] = hcb+P,35,3,-,-15,28 frames btwn the two moves
+NESTS Kyo,?Batuyomi[3] = f+P,40,4,-,-21,31 frames btwn the two moves
+NESTS Kyo,?Oniyaki[4] = dp+P,65,2,-,-27,13 frames btwn the two moves
+NESTS Kyo,EX Oniyaki(1) = dp+AC,70,0,5,-,
+NESTS Kyo,EX Oniyaki(2-5),30,0,-,-,
+NESTS Kyo,EX Oniyaki(6),50,0,-,-28,
+NESTS Kyo,EX Kototsuki(1) = hcb+BD,30,0,7,-,
+NESTS Kyo,EX Kototsuki(2),0,0,-,-,
+NESTS Kyo,EX Kototsuki(3),190,0,-,-10,
+NESTS Kyo,EX 75 Shiki Kai(1) = qcf+BD,40,0,10,-,
+NESTS Kyo,EX 75 Shiki Kai(2),40,0,-,-5,
+NESTS Kyo,EX R.E.D.KicK = rdp+BD,120,0,"19,21","-6,-4","Close standing guard, crouching guard"
+NESTS Kyo,EX Dokugami[1] = qcf+AC,60,0,18,-6,
+NESTS Kyo,?EX Tsumiyomi[2] = hcb+P,50,0,-,-5,25 frames btwn the two moves
+NESTS Kyo,?EX Batsuyomi(1)[3] = f+P,40,0,-,-,24 frames btwn the two moves
+NESTS Kyo,?EX Batsuyomi(2)[4],30,0,-,-23,16 frames btwn the two moves
+NESTS Kyo,?EX Oniyaki(1-9)[5] = dp+P,10,0,-,-9,13 frames btwn the two moves
+NESTS Kyo,EX Aragami[2] = qcf+A during EX Dokugami,40,0,-,-7,26 frames btwn the two moves
+NESTS Kyo,?EX Konikizu[3] = qcf+P,35,0,-,-4,26 frames btwn the two moves
+NESTS Kyo,?EX Nanase[4] = K,80,0,-,-8,29 frames btwn the two moves
+NESTS Kyo,?EX Yanosabi[4] = hcb+P,40,0,-,-15,23 frames btwn the two moves
+NESTS Kyo,?EX Yanosabi[3] = P,36,0,-,-15,29 frames btwn the two moves
+NESTS Kyo,?EX Nanase[4] = K,80,0,-,-8,28 frames btwn the two moves
+NESTS Kyo,?EX Migiri Ugachi[4] = P,40,0,-,-18,34 frames btwn the two moves
+NESTS Kyo,Orochinagi = qcb~hcf+P,210,0,46(17),-17,Freeze 29
+NESTS Kyo,"Mushiki(1) = qcf, qcf+P",100,0,36(7),-,Freeze 29
+NESTS Kyo,Mushiki(2-4),20,0,-,-,
+NESTS Kyo,Mushiki(5),60,0,-,-24,
+NESTS Kyo,EX Orochinagi(1) = qcb~hcf+AC,120,0,43(14),-,Freeze 29
+NESTS Kyo,"EX Orochinagi(2,3)",120,0,-,-17,
+NESTS Kyo,"Totsuka = qcf, qcf+BD",450,0,89(4),-22,Freeze 85
+NESTS Kyo,,,,,,
+NESTS Kyo,

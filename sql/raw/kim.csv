@@ -1,0 +1,68 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Kim,cl.A,25,3,5,2,
+Kim,cr.A,25,3,4,3,
+Kim,st.A,25,3,5,2,
+Kim,j.A,45,3,5,-,
+Kim,hop A,40,3,6,-,
+Kim,st.B,30,3,6,-6,
+Kim,cr.B,30,3,4,0,
+Kim,far B,30,3,6,-6,
+Kim,j.B,45,3,5,-,
+Kim,hop B,40,3,5,-,
+Kim,cl.C,70,7,4,-2,Long cancel window
+Kim,cr.C,70,7,7,-1,
+Kim,st.C,80,7,11,-6,
+Kim,j.C,72,7,10,-,
+Kim,hop C,70,7,9,-,
+Kim,cl.D,80,7,3,-4,Kim's fastest normal
+Kim,cr.D,80,7,7,-1,
+Kim,far D (1),30,8,6,-,
+Kim,far D (2),45,4,18,3,First hit whiff
+Kim,j.D,70,7,8,-,
+Kim,hop D,68,7,8,-,
+Kim,st.CD,75,10,15,-1,
+Kim,j.CD,90,8,12,-,
+Kim,hop CD,80,8,12,-,
+Kim,Nerichagi = f+B,65,6,20,-4,
+Kim,Torayopchagi = ff+A,45,8,10,-,Upon landing 22
+Kim,Throw = b/f+C/D,100,0,1,-,Hard knockdown
+Kim,GCCD,4,0,13,-15,"Startup vs: Wk13, St17, Jump Atk 17"
+Kim,B Hangetsuzan = qcb+B,60,6,16,-8,"Wk16, St22"
+Kim,D Hangetsuzan(1) = qcb+D,40,4,17,-,
+Kim,D Hangetsuzan(2-4),40,4,-,-16,
+Kim,Air B Hangetsuzan = air qcb+B,75,12,15,-5,Lowest in air + hit with forefront is 0
+Kim,Air D Hangetsuzan = air qcb+D,80,12,17,0,Lowest in air (safe on block)
+Kim,Hishokyaku(1) = air qcf+K,0,0,10,-,
+Kim,Hishokyaku(2-5),18,0,-,-,
+Kim,Hishokyaku(6),20,0,-,-,Landing recovery -33
+Kim,B Hienzan = d~u+B,70,6,4,-28,Whiff 36
+Kim,D Hienzan(1) = d~u+D,50,4,6,-,
+Kim,D Hishokyaku(2~3),20,2,-,-33,
+Kim,D Hishokyaku(4),50,6,-,-,
+Kim,EX Hangetsuzan(1) = qcb+BD,70,0,11,-,
+Kim,EX Hangetsuzan(2),100,0,-,1,Graze -1
+Kim,EX Air Hangetsuzan(1) = air qcb+BD,50,0,"15,24",-,"stand,crouch"
+Kim,EX Air Hangetsuzan(2-5),50,0,-,-3,"Close,Lowest in air (-1?-5)"
+Kim,EX Hishokyaku(1) = air qcf+BD,40,0,13,-,
+Kim,EX Hishokyaku(2-5),40,0,-,1,Freeze 29
+Kim,EX Hienzan(1) = d~u+BD,100,0,3,-,Fastest special
+Kim,EX Hienzan(2),60,0,-,-,
+Kim,EX Hienzan(3),50,0,-,-48,
+Kim,Hououkyaku(1) = qcb~hcf+K,0,0,40(11),-8,Freeze 29
+Kim,"Hououkyaku(2,3)",5,0,-,-,Air startup 33(4)
+Kim,Hououkyaku(4-8),10,0,-,-,
+Kim,Hououkyaku(9),150,0,-,-,
+Kim,"B Hououhitenkyaku = qcf,qcf+B",120,0,37(8),2,Freeze 29
+Kim,"D Hououhitenkyaku = qcf,qcf+D",80,0,40(11),2,Freeze 29
+Kim,EX Hououkyaku(1) = qcb~hcf+BD,0,0,35(6),-8,Freeze 29
+Kim,"EX Hououkyaku(2,3)",10,0,-,-,Air startup 32(3)
+Kim,EX Hououkyaku(4-8),20,0,-,-,
+Kim,EX Hououkyaku(9-11),40,0,-,-,
+Kim,EX Hououkyaku(12),80,0,-,-,
+Kim,Zeroshiki(1) = qcb~hcf+AC,0,0,34(5),-10,Freeze 29
+Kim,"Zeroshiki(2,3)",5,0,-,-,
+Kim,"Zeroshiki(4-9,11-16,18-22)",10,0,-,-,
+Kim,Zeroshiki(10?17),5,0,-,-,
+Kim,Zeroshiki(23),250,0,-,-,
+Kim,,,,,,
+Kim,

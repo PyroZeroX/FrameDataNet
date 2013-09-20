@@ -1,0 +1,66 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Ryo,cl.A,25,6,4,1,
+Ryo,cr.A,25,6,4,2,
+Ryo,st.A,25,6,4,1,
+Ryo,j.A,45,3,5,-,
+Ryo,h.A,40,3,5,-,
+Ryo,cl.B,30,6,6,0,
+Ryo,cr.B,30,6,4,2,
+Ryo,st.B,30,6,6,0,
+Ryo,j.B,45,3,5,-,
+Ryo,hop B,40,3,5,-,
+Ryo,cl.C,70,7,4,-2,
+Ryo,cr.C,70,7,3,-10,
+Ryo,st.C,80,7,7,-4,
+Ryo,j.C,72,7,6,-,
+Ryo,hop C,70,7,6,-,
+Ryo,cl.D,80,7,5,-9,
+Ryo,cr.D,80,7,9,-4,
+Ryo,st.D,80,7,5,-9,
+Ryo,j.D,70,7,7,-,
+Ryo,hop D,68,7,7,-,
+Ryo,st.CD,75,10,10,0,
+Ryo,j.CD,90,8,13,-,
+Ryo,hop CD,80,8,11,-,
+Ryo,Hyochuuwari,70,8,17,-7,
+Ryo,Hyouchuuwari(cancel),65,6,15,-7,
+Ryo,Jodanuke,0,0,Apr-16,-,All frames 30. Parry window 13
+Ryo,Gedanuke,0,0,May-13,-2,All frames 23. Parry window 9
+Ryo,Tomoenage,100,0,1,-,Hard knock down
+Ryo,GCCD,4,0,13,-15,"Startup vs Wk 13, Str 17, Jump 17"
+Ryo,A Ko-Ou Ken,55,10,15,0,
+Ryo,C Ko-Ou Ken,70,12,19,-6,"close,forefront -1"
+Ryo,A Kohou,65,8,4,-18,
+Ryo,C Kohou1,75,8,7,-36,
+Ryo,C Kohou2,50,3,-,-,
+Ryo,B Hien Shippuu Kyaku1,40,6,5,-,Hitting with knee portion
+Ryo,B Hien Shippuu Kyaku2,50,66,-,-20,Hitting with leg portion 8-9
+Ryo,D Hien Shippuu Kyaku1,40,4,14,-,
+Ryo,D Hien Shippuu Kyaku2,50,4,-,-,
+Ryo,D Hien Shippuu Kyaku3,60,4,-,-34,
+Ryo,Zanretsuken1,0,0,"11,17",-,"wk, str"
+Ryo,Zanretsuken2-12,12,0,-,"-27,-30",
+Ryo,A Zanretsuken13,80,0,-,-,
+Ryo,C ZanretsukenF13,50,0,-,-,
+Ryo,EX Ko-Ou Ken,120,0,13,4,Forefront +6
+Ryo,EX Kohou,160,0,4,-38,
+Ryo,EX Hien Shippuu Kyaku1,80,0,11,-,
+Ryo,EX Hien Shippuu Kyaku2,80,0,-,-15,
+Ryo,EX Zanretsuken1,0,0,-,-15,
+Ryo,EX Zanretsuken2-20,15,0,-,-7,
+Ryo,EX Zanretsuken21,90,0,-,-,
+Ryo,Haoh Shokou Ken,200,0,48(19),-26,Freeze 29
+Ryo,Ryuuko Ranbu1,0,0,41(12),-9,Freeze 29
+Ryo,"Ryuuko Ranbu2,3,8,10,12",5,0,-,-,
+Ryo,"Ryuuko Ranbu4-7,9,11,13",10,0,-,-,
+Ryo,Ryuuko Ranbu14,115,0,-,-,
+Ryo,EX Ryuuko Ranbu1,0,0,39(10),-,Freeze 29
+Ryo,"EX Ryuuko Ranbu2,3,6,11",10,0,-,-,
+Ryo,"EX Ryuuko Ranbu4,5,7-10",15,0,-,-,
+Ryo,EX Ryuuko Ranbu12-15,15,0,-,-,
+Ryo,EX Ryuuko Ranbu16,30,0,-,-,
+Ryo,EX Ryuuko Ranbu17,40,0,-,-,
+Ryo,EX Ryuuko Ranbu18,100,0,-,-,
+Ryo,Shin?Tanchi Haoh Ken,450,0,172(12),-,"Freeze 160, on guard crush -14"
+Ryo,,,,,,
+Ryo,

@@ -1,0 +1,64 @@
+fighter,Move,Damage,Stun,Startup,On Guard,Remarks
+Billy Kane,cl.A,25,3,6,2,Billy's only normal that gives him adv.
+Billy Kane,cr.A,25,3,6,-2,
+Billy Kane,st.A,25,3,6,2,Billy's only normal that gives him adv.
+Billy Kane,j.A,45,3,5,-,
+Billy Kane,hop A,40,3,5,-,
+Billy Kane,st.B,30,3,6,-1,
+Billy Kane,cr.B,30,3,5,-1,
+Billy Kane,j.B,45,3,4,-,
+Billy Kane,hop B,40,3,4,-,
+Billy Kane,cl.C 1,70,2,7,-,
+Billy Kane,cl.C 2,70,2,-,-,
+Billy Kane,cl.C 3,70,2,-,-3,
+Billy Kane,cr.C,70,7,4,-8,Billy's fastest normal
+Billy Kane,st.C,80,7,8,-4,
+Billy Kane,j.C,72,7,8,-,
+Billy Kane,hop C,70,7,7,-,
+Billy Kane,cl.D,80,7,6,-10,
+Billy Kane,cr.D,80,7,9,-9,
+Billy Kane,st.D,80,7,6,-10,
+Billy Kane,j.D,70,7,9,-,
+Billy Kane,hop D,68,7,9,-,
+Billy Kane,st.CD,75,10,20,-13,
+Billy Kane,j.CD,90,8,12,-,
+Billy Kane,hop CD,80,10,11,-,
+Billy Kane,Daikaitengeri(1) (f A),40,4,8,-,
+Billy Kane,Daikaitengeri(2),45,4,20,-2,Startup based on hit(1) of move whiffing
+Billy Kane,Saouchi (b A),65,4,19,-5,
+Billy Kane,Boutakatobigeri (f B),50,4,15,-9,
+Billy Kane,Jigokuotoshi (throw),100,0,1,-,Hard knock down
+Billy Kane,GCCD,4,0,13,-15,Startup vs Wk 13, St 13, jump atk 17F
+Billy Kane,A Sansetsu Kon Chuudan Uchi (hcf P),50,4,13,-9,Close, startup 37, recovery +17
+Billy Kane,C Sansetsu Kon Chuudan Uchi,50,4,19,-12,
+Billy Kane,?Ka-en (hcf P~qcf P),60,2,-,-24,
+Billy Kane,A Suzume Otoshi (qcb P),60,6,9,-,Entire animation 52
+Billy Kane,C Suzume Otoshi,70,6,15,-25,
+Billy Kane,Senpuu Kon(1) (rapid P),25,1,10,-,
+Billy Kane,Senpuu Kon(2-9),25,1,-,-2,
+Billy Kane,B Kyoushuu Hishou Kon(1) (dp K),45,4,11,-,
+Billy Kane,B Kyoushuu Hishou Kon(2,3),25,2,-,-3,
+Billy Kane,D Kyoushuu Hishou Kon(1,2),40,3,18,-,
+Billy Kane,D Kyoushuu Hishou Kon(3,4),25,2,-,-3,
+Billy Kane,EX Sansetsu Kon Chuudan Uchi(1) (hcf P),50,0,13,-,
+Billy Kane,EX Sansetsu Kon Chuudan Uchi(2,3),50,0,-,-10,
+Billy Kane,?EX Ka-en (hcf P~qcf P),60,0,-,-22,
+Billy Kane,EX Suzume Otoshi (qcb P),120,0,6,-22,Billy's fastest special
+Billy Kane,EX Senpuukon(1) (rapid P),20,0,9,-,
+Billy Kane,EX Senpuukon(even hits),0,0,-,-,
+Billy Kane,EX Senpuukon(odd hits),20,0,-,-,
+Billy Kane,EX Senpuukon(19),24,0,-,-12,
+Billy Kane,EX Kyoushuu Hishou Kon(1) (dp K),50,0,11,-,Invincible
+Billy Kane,EX Kyoushuu Hishou Kon(2),50,0,-,-,
+Billy Kane,EX Kyoushuu Hishou Kon(3,4),45,0,-,2,
+Billy Kane,Chou Ka-en Senpuukon(1) (qcf~hcb P)),30,0,43(14),-,Freeze 29, Close
+Billy Kane,Chou Ka-en Senpuukon(2-6),30,0,-,-,
+Billy Kane,Chou Ka-en Senpuukon(7),60,0,-,-14,
+Billy Kane,EX Chou Ka-en(1),9,0,38(9),-,Freeze 29, Close
+Billy Kane,EX Chou Ka-en(2-26),9,0,-,-,
+Billy Kane,EX Chou Ka-en(27-40),0,0,-,-,
+Billy Kane,EX Chou Ka-en(41),100,0,-,-21,
+Billy Kane,Dai Guren Rasen Kon(1) (qcf x2+P),100,0,10,-,Freeze 80, Close
+Billy Kane,Dai Guren Rasen Kon(2-13),30,0,-,-,Corner?Corner 110(30)
+Billy Kane,,,,,,
+Billy Kane,

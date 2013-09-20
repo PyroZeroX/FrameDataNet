@@ -1,0 +1,73 @@
+fighter,Move,Damage,Stun,Startup,On Guard,Remarks
+Kensou,cl.A,25,3,4,2,
+Kensou,cr.A,25,3,4,2,
+Kensou,st.A,25,3,4,2,
+Kensou,j.A,45,3,5,-,
+Kensou,h.A,40,3,5,-,
+Kensou,cl.B,30,3,5,-3,
+Kensou,cr.B,30,3,4,0,
+Kensou,st.B,30,3,5,-3,
+Kensou,j.B,45,3,7,-,
+Kensou,hop B,40,3,7,-,
+Kensou,cl.C,70,7,5,-3,
+Kensou,cr.C,70,7,6,-4,
+Kensou,st.C,80,7,10,0,B>C follow up -1(+6 on hit)
+Kensou,j.C,72,7,7,-,
+Kensou,hop C,70,7,7,-,
+Kensou,cl.D,70,7,6,-4,
+Kensou,cr.D,80,7,7,-6,
+Kensou,st.D,70,7,6,-4,
+Kensou,j.D,70,7,8,-,
+Kensou,hop D,68,7,8,-,
+Kensou,st.CD,75,10,13,2,
+Kensou,j.CD,90,8,13,-,
+Kensou,hop CD,80,8,13,-,
+Kensou,Back Flip,0,0,1,all 54,fastest cancel at 16(starts at 17)
+Kensou,Throw,100,0,1,-,Can juggle afterwards in corner
+Kensou,GCCD,4,0,13,-15,"Vs attacks: wk 13, st 17, Jump 17"
+Kensou,A Choukyuudan,65,6,21,2,Touching
+Kensou,C Choukyuudan,65,6,16,-7,Touching
+Kensou,B Ryugakusai1,35,6,6,-,
+Kensou,B Ryugakusai2,35,6,-,-,
+Kensou,B Ryugakusai3,30,3,-,-28,
+Kensou,D Ryugakusai1,40,6,10,-,
+Kensou,D Ryugakusai2,40,6,-,-,
+Kensou,"D Ryugakusai3,4",30,3,-,-31,
+Kensou,Ryutouda,30,4,10,-9,
+Kensou,?Rintessho,30,4,-,-8,
+Kensou,?Shikkuzanryukyaku1,0,0,-,-30,
+Kensou,?Shikkuzanryukyaku2,65,0,4,-,
+Kensou,Shikkuzanryukyaku1,0,0,17,-30,weak dash 27
+Kensou,Shikkuzanryukyaku2,75,10,-,-,strong dash 39
+Kensou,Ryusogeki,50,4,20,-3,"closest, lowest pt in air, forefront -2F"
+Kensou,Ryubokko1,10,0,19,-,
+Kensou,Ryubokko2-13,10,0,-,-13,level 1
+Kensou,Ryubokko14,95,8,-,-2,level 2
+Kensou,Ryubokko17-21,70,4,-,-26,level 3
+Kensou,EX Choukyuudan,120,0,14,-4,Touching
+Kensou,EX Ryugakusai1,60,0,8,-,
+Kensou,EX Ryugakusai2,60,0,-,-,
+Kensou,EX Ryugakusai3-7,35,0,-,-31,
+Kensou,EX Ryutouda1,45,0,8,-2,
+Kensou,EX Ryutouda3,45,0,-,-2,
+Kensou,?EX Rintesshou2.4,45,0,-,-1,
+Kensou,?EX Shikkuzanryukyaku,100,0,-,-16,
+Kensou,EX Shikkuzanryukyaku1,0,0,15,-16,
+Kensou,EX Shikkuzanryukyaku2,100,0,-,-,
+Kensou,EX Ryusougeki,15,0,14,-,
+Kensou,EX Ryusougeki1,50,0,-,6,Closest lowest point in air
+Kensou,EX Ryubokko1,15,0,19,-,
+Kensou,EX Ryubokko2-16,15,0,-,-,
+Kensou,EX Ryubokko17,120,0,-,-26,
+Kensou,Shinryuu?Choukyuudan,200,0,44(15),-16,"Freeze 29, Touching"
+Kensou,Shinryuu Seioushou1,8,0,30(1),-,"Freeze 29, Whiff 65(35)"
+Kensou,Shinryuu Seioushou2-25,8,0,-,-,
+Kensou,Shinryuu Seioushou26-49,0,0,-,-,
+Kensou,Shinryuu Seioushou50,20,0,-,-,
+Kensou,EX Shinryuu Seioushou?Choukyuudan,330,0,39(10),-18,"Freeze 29, Touching"
+Kensou,Seigan Senki Hakkei1,16,0,101(15),-2,Freeze 86
+Kensou,Seigan Senki Hakkei2-23,16,0,-,-,
+Kensou,Seigan Senki Hakkei24-45,0,0,-,-,
+Kensou,Seigan Senki Hakkei46,100,0,-,-,
+Kensou,,,,,,
+Kensou,

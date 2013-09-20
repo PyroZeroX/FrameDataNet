@@ -1,0 +1,75 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Yuri,cl.A,25,6,4,1,
+Yuri,cr.A,25,6,4,2,
+Yuri,st.A,25,6,4,1,
+Yuri,j.A,45,3,5,-,
+Yuri,hop A,40,3,5,-,
+Yuri,st.B,30,6,4,-1,
+Yuri,cr.B,30,6,4,3,
+Yuri,j.B,45,3,4,-,
+Yuri,hop B,40,3,4,-,
+Yuri,cl.C,70,7,4,-4,
+Yuri,cr.C,70,7,3,-4,
+Yuri,st.C,80,7,6,-2,
+Yuri,j.C,72,7,8,-,
+Yuri,hop C,70,7,8,-,
+Yuri,cl.D,80,7,6,-2,
+Yuri,cr.D,80,7,8,-5,
+Yuri,st.D,80,7,9,0,
+Yuri,j.D,70,7,7,-,
+Yuri,hop D,68,7,7,-,
+Yuri,st.CD,75,8,13,3,Hit with the tip for +4 on guard
+Yuri,j.CD,90,8,12,-,
+Yuri,hop CD,80,10,12,-,
+Yuri,Enyoku (Tsubame Tsubasa),60,10,17,-5,"Close -4, forefront on guard +4, cr.C or st.B will connect in corner"
+Yuri,Yuri Raijinkyaku,45,4,10,-,"Guard recovery 30, Hit recovery 32,"
+Yuri,Oni Harite,100,0,1,-,
+Yuri,Tsubame Otoshi,100,0,1,-,
+Yuri,GCCD,4,0,13,-15,"Weak atk 13, Strong akt 17, Jump atk 17 Frame startup?"
+Yuri,A Kou Ou Ken,65,6,16,-7,"Close, startup 28, recovery +5"
+Yuri,C Kou Ou Ken,75,8,22,2,"Close, startup 37, recovery +17"
+Yuri,A Kuuga (Yuri Chou Upper)(1),40,6,5,-,
+Yuri,A Kuuga (Yuri Chou Upper)(2),35,4,-,-25,
+Yuri,C Kuuga (Yuri Chou Upper)(1),65,8,12,-,
+Yuri,C Kuuga (Yuri Chou Upper)(2),35,6,-,-,
+Yuri,A Saiha,50,6,12,-10,
+Yuri,C Saiha,60,6,27,-2,
+Yuri,B Hyakuretsu Binta (1),0,0,1,-,Whiff 35
+Yuri,B Hyakuretsu Binta (2-5),4,0,-,-,D Hyakuretsu shortest distance grab 16
+Yuri,B Hyakuretsu Binta (6),129,0,-,-,
+Yuri,B Raiouken,60,8,17,-6,"Close, ground recovery 7"
+Yuri,D Raiouken,70,10,25,-14,"Close, ground recovery 7"
+Yuri,Air Raiouken,55,4,"10,16",-,"B ground recovery 7, D ground recovery 23"
+Yuri,Houyoku Dageki,70,10,10,-,ground recovery 7
+Yuri,Houyoku Raijinkyaku,45,4,10,-,Ground recovery 4
+Yuri,Houyoku Throw,100,0,1,-,Ground recovery 7F
+Yuri,Houyoku Raiouken,55,4,10,-,"Ground recovery 7, All frames 50, C All frames59"
+Yuri,EX Raiouken,120,0,13,-5,
+Yuri,EX Kuuga (Yuri Chou Upper)(1),20,0,7,-,
+Yuri,EX Kuuga (Yuri Chou Upper)(2-5),20,0,-,-,
+Yuri,EX Kuuga (Yuri Chou Upper)(6),65,0,-,-,
+Yuri,"EX Kuuga (Yuri Chou Upper)(7,8)",35,0,-,-47,
+Yuri,EX Hyakuretsu Binta (1),0,0,8,-,
+Yuri,EX Hyakuretsu Binta (2-11),4,0,-,-,
+Yuri,EX Hyakuretsu Binta (12),60,0,-,-12,
+Yuri,EX Raiouken (1),45,0,22,-,
+Yuri,EX Raiouken (2-3),45,0,-,11,
+Yuri,EX Air Raiouken (1),70,0,10,-,Startup against crouching opponent 23
+Yuri,EX Air Raiouken (2),45,0,-,-,
+Yuri,EX Houyoku Dageki,100,0,10,-,Ground recovery 7
+Yuri,EX Houyoku Raijinkyaku,60,0,10,-,Ground recovery 4
+Yuri,EX Houyoku Throw,150,0,1,-,Ground recovery 7
+Yuri,"EX Houyoku Raiouken (1,2)",70,0,10,-,"Ground recovery 7, all frames 59"
+Yuri,Haoh Shoukou Ken,190,0,47,-17,"Freeze 29, close"
+Yuri,Hien Hou'ou Kyaku (1),0,0,40(11),-22,Freeze 29
+Yuri,Hien Hou'ou Kyaku (2-12),15,0,-,-,
+Yuri,Hien Hou'ou Kyaku (13),55,0,-,-,
+Yuri,EX Hien Hou'ou Kyaku (1),0,0,36(7),-28,Freeze 29
+Yuri,EX Hien Hou'ou Kyaku (2-19),10,0,-,-,
+Yuri,EX Hien Hou'ou Kyaku (20),40,0,-,-,
+Yuri,EX Hien Hou'ou Kyaku (21),100,0,-,-,
+Yuri,Haoh Raiouken (1),10,0,86(10),-18,
+Yuri,Haoh Raiouken (N),10,0,-,-,
+Yuri,Haoh Raiouken (1-17,25,0,-,-,
+Yuri,,,,,,
+Yuri,

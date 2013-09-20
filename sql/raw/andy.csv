@@ -1,0 +1,58 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Andy,cl. A,25,3,5,0,
+Andy,cr. A,25,3,4,2,
+Andy,far A,25,3,5,0,
+Andy,jump A,45,3,5,-,
+Andy,hop A,40,3,5,-,
+Andy,cl. B,30,3,6,-1,
+Andy,cr. B,30,3,4,0,
+Andy,far B,30,3,6,-1,
+Andy,jump B,45,3,4,-,
+Andy,hop B,40,3,4,-,
+Andy,cl. C 1,55,4,3,-,
+Andy,cl. C 2,32,2,-,-1,
+Andy,cr. C,70,7,7,-7,
+Andy,far C,80,7,9,-5,
+Andy,jump C,72,7,5,-,
+Andy,hop C,70,7,5,-,
+Andy,cl. D,70,7,5,-3,
+Andy,cr. D,80,7,8,-7,
+Andy,far D,80,7,10,-5,
+Andy,jump D,70,7,6,-,
+Andy,hop D,68,7,6,-,
+Andy,CD,75,10,14,-3,
+Andy,jump CD,90,8,11,-,
+Andy,hop CD,80,8,10,-,
+Andy,Hirateuchi (f+A),55,6,11,-8,
+Andy,Kakaekomi (Throw),100,0,1,-,Hard Knock Down
+Andy,GCCD,4,0,13,-15,start with 13F against Weak attacks, with 18F against normals, with 17F by low-hiting jump-in
+Andy,A Zan eiken (db charge ~ f + A),60,8,11,-8,Move 24F
+Andy,C Zan eiken (db charge ~ f + C),80,8,16,-9,Move 33F
+Andy,A Shoryudan(1),40,4,5,-,
+Andy,A Shoryudan(2-3),20,2,-,-23,1 hit on guard
+Andy,C Shoryudan(1),70,6,7,-,
+Andy,C Shoryudan(2-3),30,2,-,-32,1 hit on guard
+Andy,A Hishouken,60,6,17,-1,
+Andy,C Hishouken,60,6,16,-4,
+Andy,B Kuuhadan(1),30,4,15,-,
+Andy,B Kuuhadan(Cancel),30,4,15,-,-6 At start
+Andy,B Kuuhadan(2-3),35,4,-,-4,
+Andy,D Kuuhadan(Cancel),30,4,17,-,
+Andy,D Kuuhadan(2-5),35,4,-,-5,
+Andy,EX Zan eiken (db charge ~ f +AC),150,0,11,-3,
+Andy,EX Shoryudan(1),30,0,5,-,
+Andy,EX Shoryudan(2-3),30,0,-,-,
+Andy,EX Shoryudan(4-5),45,0,-,-33,
+Andy,EX Hishouken,120,0,11,-1,
+Andy,EX Kuuhadan(1),35,0,12,-,
+Andy,EX Kuuhadan(2-5),35,0,-,-,
+Andy,EX Kuuhadan(6),45,0,-,0, Last hit
+Andy,Choreppadan(1),22,0,39 (10),-,Freeze 29
+Andy,Choreppadan(2-9),22,0,-,-50,
+Andy,Gekihishoken(1),15,0,39 (10),-,Freeze 29
+Andy,Gekihishoken, 2-11 hits (qcf hcb+P),15,0,-,-,
+Andy,Gekihishoken, last hit (qcf hcb+P),60,0,-,-11,
+Andy,EX Choreppadan(1),15,0,43 (14),-,Freeze 29
+Andy,EX Choreppadan(2-23),15,0,-,-35,
+Andy,Cho Shin Soku Zaneiken,450,0,47 (2),-14,Freeze 45
+Andy,Air Cho Shin Soku Zaneiken,450,0,47 (2),3,Freeze 45

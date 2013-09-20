@@ -1,0 +1,54 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Mature,cl. A,25,3,4,0,
+Mature,cr. A,25,3,4,-1,
+Mature,far A,25,3,4,0,
+Mature,JA,45,3,6,-,
+Mature,hop A,40,3,6,-,
+Mature,cl. B1,10,3,4,-,
+Mature,cl. B2,22,3,-,-2,
+Mature,cr. B,30,3,5,0,
+Mature,far B,30,3,6,-3,
+Mature,JB,45,3,7,-,
+Mature,hop B,40,3,7,-,
+Mature,Cl. C,70,7,3,-11,
+Mature,cr. C,70,7,5,-10,
+Mature,far C,80,7,11,-3,
+Mature,JC,72,7,6,-,
+Mature,hop C,70,7,6,-,
+Mature,cl. D,70,7,7,-8,
+Mature,cr. D,80,7,9,-13,
+Mature,far D,80,7,8,-5,
+Mature,JD,70,7,6,-,
+Mature,hop D,68,7,6,-,
+Mature,st CD,75,10,14,-2,
+Mature,jump CD,90,8,12,-,
+Mature,hop CD,80,8,10,-,
+Mature,Desuburou (Throw),100,0,1,-,
+Mature,GCCD,4,0,15,-15,13F startup on Weak attacks, 17F on normals and jumping attacks
+Mature,Despair,80,8,18,-7, 3, 6, 41, · C55F at the lowest landing, +7 F C maximum
+Mature,Death Row(1,4,7) (qcb+P x3),20,1,12,-5,Rigid locking differential first stage
+Mature,Death Row(2-3,5-6,8) (qcb+P x3),20,1,9,-12,Rigid locking differential second stage
+Mature,Death Row(9),30,1,11,-12,Rigid locking differential third stage
+Mature,B Metal Massacre,60,2,11,-4,
+Mature,D Metal Massacre(1),60,2,25,-,
+Mature,D Metal Massacre(2-3),60,2,-,2,
+Mature,Ebony Tears,70,8,30, 26,1, -1,Close
+Mature,EX Despair,140,0,14,-13,-8, depending on how high it hits
+Mature,EX Death Row(1),40,0,9,-10,
+Mature,EX Death Row(2-4),40,0,8, 7, -14, -10,
+Mature,EX Death Row(5),54,0,10,-10,
+Mature,EX Metal Massacre(1),50,0,18,-,
+Mature,EX Metal Massacre(2-4),50,0,,-2,
+Mature,EX Ebony Tears(1),60,0,24,-,Close
+Mature,EX Ebony Tears(2-3),60,0,-,17,
+Mature,Heavens Gate(1),0,0,45 (15),-23,Freeze 30
+Mature,Heavens Gate(2),220,0,-,-,
+Mature,Nocturnal Lights(1),20,0,36 (7),-,Freeze 29
+Mature,Nocturnal Lights(2-4),20,0,-,-,
+Mature,Nocturnal Lights(5),100,0,-,-10,
+Mature,EX Nocturnal Lights(1),20,0,35 (6),-10,Freeze 29
+Mature,EX Nocturnal Lights(2-4),20,0,-,-,
+Mature,EX Nocturnal Lights(5-7),30,0,-,-,
+Mature,EX Nocturnal Lights(8-9),50,0,-,-,
+Mature,EX Nocturnal Lights(10),50,0,-,-10,
+Mature,Awakening Blood,450,0,116(18),-,

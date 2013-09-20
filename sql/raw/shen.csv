@@ -1,0 +1,50 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Shen Woo,s.A,25,3,4,3,
+Shen Woo,d.A,25,3,5,2,
+Shen Woo,far A,25,3,4,3,
+Shen Woo,j.A,45,3,6,-,
+Shen Woo,h.A,40,3,6,-,
+Shen Woo,s.B,30,3,7,-1,
+Shen Woo,d.B,30,3,5,2,
+Shen Woo,far B,30,3,7,-1,
+Shen Woo,j.B,45,3,5,-,
+Shen Woo,h.B,40,3,5,-,
+Shen Woo,s.C,70,7,5,-1,
+Shen Woo,d.C,70,7,4,-13,
+Shen Woo,far C,80,7,9,-7,Has autoguard
+Shen Woo,j.C,72,7,6,-,
+Shen Woo,h.C,70,7,6,-,
+Shen Woo,s.D,80,7,6,-12,
+Shen Woo,d.D,80,7,8,-8,
+Shen Woo,far D,80,7,11,-9,
+Shen Woo,j.D,70,7,8,-,
+Shen Woo,h.D,68,7,8,-,
+Shen Woo,s.CD,75,10,14,-1,
+Shen Woo,j.CD,90,8,12,-,
+Shen Woo,h.CD,80,8,12,-,
+Shen Woo,f+B,65,6,16,-2,
+Shen Woo,Normal Throw,100,0,1,-,Hard knockdown
+Shen Woo,GCCD,4,0,13,-15,
+Shen Woo,A Geki-ken,65,8,15,-3,
+Shen Woo,C Geki-Ken,60,10,21,-6,
+Shen Woo,C Geki-ken Charge 1,80,10,-,-1,"Cancel animation 6, immediate cancel, entire animation 13"
+Shen Woo,C Geki-ken Charge 2,85,14,-,-3,
+Shen Woo,C Geki-ken Charge 3,200,20,78(58),-8,Freeze frames 20
+Shen Woo,Fukkogeki,60,6,18,-16,
+Shen Woo,Kanyuu Ryugeki,50,4,-,-17,
+Shen Woo,B Tenrenken,50,8,14,-7,
+Shen Woo,D Tenrenken,70,6,17,-2,
+Shen Woo,Tamaken,120,0,5,-,Whiff 38
+Shen Woo,Tamaken Deflect,0,0,-,-,Complete animation 36
+Shen Woo,EX Geki-ken,100,0,16,-8,
+Shen Woo,EX Fukkogeki,70,0,18,-20,
+Shen Woo,EX Tenrenken(1),50,0,15,-,
+Shen Woo,EX Tenrenken(2),55,0,-,-7,
+Shen Woo,EX?Tamaken,120,0,3,-,Whiff 37
+Shen Woo,Zetsu Gekiken,220,0,40(11),-20,Freeze 29
+Shen Woo,EX Zetsu Gekiken,320,0,40(22),-20,Freeze 29
+Shen Woo,Bakushin,240,0,62(3),-28,Freeze 59
+Shen Woo,Tenshou Bakushingeki (1),200,0,45(15),-,Freeze 30
+Shen Woo,Tenshou Bakushingeki (2),250,0,-,-30,
+Shen Woo,,,,,,
+Shen Woo,

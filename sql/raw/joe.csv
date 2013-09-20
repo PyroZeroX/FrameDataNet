@@ -1,0 +1,67 @@
+fighter,Move,Damage,Stun,Startup,On Guard,Comments
+Joe,cl.A,25,3,5,1,
+Joe,cr.A,25,3,4,2,
+Joe,far A,25,3,5,1,
+Joe,jump A,45,3,9,-,
+Joe,hop A,40,3,9,-,
+Joe,cl.B,30,3,6,-1,
+Joe,cr.B,30,3,4,0,
+Joe,far B,30,3,6,-1,
+Joe,jump B,45,3,7,-,
+Joe,hop B,40,3,7,-,
+Joe,cl.C,70,7,5,-2,
+Joe,cr.C,70,7,5,-4,
+Joe,Far C,70,7,7,-3,
+Joe,jump C,72,7,6,-,
+Joe,Hop C,70,7,7,-,
+Joe,cl.D,70,7,8,-2,
+Joe,cr.D,80,7,8,-10,
+Joe,Far D,80,7,8,-2,
+Joe,jump D,70,7,6,-,
+Joe,Hop D,68,7,6,-,
+Joe,CD,75,10,14,5,
+Joe,jump CD,90,6,10,-,
+Joe,hop CD,80,6,10,-,
+Joe,Step In Middle Kick (f+B),60,4,10,-14,
+Joe,Sliding (single) (df+B),75,6,6,-13,5F at far range
+Joe,Sliding (c),60,4,6,-13,
+Joe,"1,2 sumo neck (Throw C)",30,0,1,-,
+Joe,Kubizumou Hiza Jigoku (Throw D),48,0,-,-,
+Joe,GCCD,4,0,13,-15,"start with 13F against Weak attacks, 18F against low-hiting jump attacks"
+Joe,Upper hurricane (hcf+P),60,5,14,-9,left highly vulnerable in close range
+Joe,Tiger Kick(1) (dp+K),50,6,10.14,-,left highly vulnerable in close range
+Joe,Tiger Kick(2),50,4,-,-33,
+Joe,B slash kick,70,6,14,-7,but +3 when touching at the last frame
+Joe,D slash kick,90,6,17,-23,    -6 when touching at the last frame
+Joe,Bakuretsuken,10,1,5,-7,"gets the opponent crumpled at 11F, +2 on block when cancel immediately"
+Joe,Bakuretsuken Follow up(1),30,1,-,-,Follow up done at 5F
+Joe,Bakuretsuken Follow up(2),50,10,-,-8,
+Joe,B Golden Heel (1),35,3,26,-,
+Joe,B Golden Heel (2-4),35,3,-,-5,
+Joe,D Golden Heel(1),35,3,28,-,but +1 on backing up opponent
+Joe,D Golden Heel(2-3),35,3,-,-1,1 hit at guard
+Joe,EX Hurricane Upper(1) (hcf+AC),40,0,14,-,
+Joe,EX Hurricane Upper(2) (hcf+AC),40,0,-,-,
+Joe,EX Hurricane Upper(3) (hcf+AC),60,0,-,-4,
+Joe,EX Tiger Kick(1),120,0,6,-,close
+Joe,EX Tiger Kick(2),80,0,-,-30,
+Joe,EX Thrust Kick(1),70,0,15,-,
+Joe,EX Thrust Kick(2),70,0,-,-1,
+Joe,EX Bakuretsuken(1),20,0,4,-,
+Joe,EX Bakuretsuken(2-6),20,0,-,-,
+Joe,EX Bakuretsuken(7),40,0,-,-,
+Joe,EX Bakuretsuken(8),70,0,-,0,
+Joe,EX Golden Heel(1),60,0,26,-,
+Joe,EX Golden Heel(2-4),60,0,-,4,
+Joe,Screw Upper(1),20,0,47 (18),-,"In close contact, stop time 29"
+Joe,Screw Upper(2-13),20,0,-,-26,
+Joe,Hurricane Tiger Heel(1),10,0,34 (4),-,Stop time 30
+Joe,Hurricane Tiger Heel(2-10),10,0,-,-,
+Joe,Hurricane Tiger Heel(11),30,0,-,-,
+Joe,Hurricane Tiger Heel(12),30,0,-,-39,During knee guard (center)
+Joe,Hurricane Tiger Heel(13),60,0,-,-16,Guard at heel (end)
+Joe,EX Screw Upper (1),100,0,42 (13),-128,Stop time 29
+Joe,EX Screw Upper (2),240,0,-,-,
+Joe,Screw Straight (1),18,0,141 (7),-,Time stop 134
+Joe,Screw Straight (2-26),18,0,-,-,End end - 145 (11)
+Joe,Screw Straight (25 hit),18,0,-,-13,

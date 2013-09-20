@@ -1,0 +1,32 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|robots\.txt|css|js|img|temp|fonts)
+RewriteRule ^(.*)$ index.php/$1 [L]
+Header set Access-Control-Allow-Origin *
+AddDefaultCharSet UTF-8
+AddLanguage en-US .html .htm .css .js
+
+# Turn on Expires and set default to 0
+ExpiresActive On
+ExpiresDefault A0
+
+# Set up caching on media files for 1 week
+<FilesMatch "\.(gif|jpg|jpeg|png|swf|js|css)$">
+ExpiresDefault A604800
+Header append Cache-Control "public"
+</FilesMatch>
+
+<FilesMatch "\.(js|css|xml|gz)$">
+	Header append Vary: Accept-Encoding
+</FilesMatch>
+
+# Set up 2 Hour caching on commonly updated files
+<FilesMatch "\.(xml|txt|html)$">
+ExpiresDefault A7200
+Header append Cache-Control "proxy-revalidate"
+</FilesMatch>
+
+#Gzip
+<ifmodule mod_deflate.c>
+	AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript
+</ifmodule>
+#End Gzip

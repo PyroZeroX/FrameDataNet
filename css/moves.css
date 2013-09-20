@@ -1,0 +1,224 @@
+.notationsymbol
+{
+	margin-left: 5px;
+	border: 0 !important;
+	padding: 1px;
+}
+
+.uqcf {
+	background: url('../img/moves.png') no-repeat -12px -15px;
+	width: 21px;
+	height: 19px;
+}
+
+.uqcb {
+	background: url('../img/moves.png') no-repeat -48px -15px;
+	width: 21px;
+	height: 19px;
+}
+
+.upforward {
+	background: url('../img/moves.png') no-repeat -84px -16px;
+	width: 17px;
+	height: 17px;
+}
+
+.bqcf {
+	background: url('../img/moves.png') no-repeat -116px -16px;
+	width: 19px;
+	height: 21px;
+}
+
+.downback {
+	background: url('../img/moves.png') no-repeat -151px -17px;
+	width: 17px;
+	height: 17px;
+}
+
+.upback {
+	background: url('../img/moves.png') no-repeat -12px -45px;
+	width: 17px;
+	height: 17px;
+}
+
+.up {
+	background: url('../img/moves.png') no-repeat -52px -45px;
+	width: 15px;
+	height: 20px;
+}
+
+.tkforward {
+	background: url('../img/moves.png') no-repeat -84px -45px;
+	width: 19px;
+	height: 20px;
+}
+
+.forward {
+	background: url('../img/moves.png') no-repeat -116px -47px;
+	width: 21px;
+	height: 15px;
+}
+
+.down {
+	background: url('../img/moves.png') no-repeat -151px -46px;
+	width: 15px;
+	height: 20px;
+}
+
+.tkback {
+	background: url('../img/moves.png') no-repeat -11px -77px;
+	width: 19px;
+	height: 20px;
+}
+
+.spd {
+	background: url('../img/moves.png') no-repeat -48px -76px;
+	width: 23px;
+	height: 23px;
+}
+
+.qcf {
+	background: url('../img/moves.png') no-repeat -84px -78px;
+	width: 21px;
+	height: 19px;
+}
+
+.dp {
+	background: url('../img/moves.png') no-repeat -117px -79px;
+	width: 20px;
+	height: 20px;
+}
+
+.back {
+	background: url('../img/moves.png') no-repeat -145px -81px;
+	width: 21px;
+	height: 15px;
+}
+
+.qcb {
+	background: url('../img/moves.png') no-repeat -8px -110px;
+	width: 21px;
+	height: 19px;
+}
+
+.hcfb {
+	background: url('../img/moves.png') no-repeat -46px -110px;
+	width: 23px;
+	height: 19px;
+}
+
+.hcf {
+	background: url('../img/moves.png') no-repeat -82px -110px;
+	width: 25px;
+	height: 19px;
+}
+
+.rdp {
+	background: url('../img/moves.png') no-repeat -117px -110px;
+	width: 20px;
+	height: 20px;
+}
+
+.plus {
+	background: url('../img/moves.png') no-repeat -154px -114px;
+	width: 9px;
+	height: 9px;
+}
+
+.hcbf {
+	background: url('../img/moves.png') no-repeat -7px -141px;
+	width: 23px;
+	height: 19px;
+}
+
+.hcb {
+	background: url('../img/moves.png') no-repeat -44px -141px;
+	width: 25px;
+	height: 19px;
+}
+
+.fqcb {
+	background: url('../img/moves.png') no-repeat -84px -141px;
+	width: 19px;
+	height: 21px;
+}
+
+.downforward
+{
+	background: url('../img/moves.png') no-repeat -118px -143px;
+	width: 17px;
+	height: 17px;
+}
+
+.a
+{
+	background: url('../img/moves.png') no-repeat -7px -171px;
+	width: 19px;
+	height: 19px;
+}
+
+.b {
+	background: url('../img/moves.png') no-repeat -47px -171px;
+	width: 19px;
+	height: 19px;
+}
+
+.c {
+	background: url('../img/moves.png') no-repeat -84px -171px;
+	width: 19px;
+	height: 19px;
+}
+
+.d {
+	background: url('../img/moves.png') no-repeat -117px -171px;
+	width: 19px;
+	height: 19px;
+}
+
+.lp {
+	background: url('../img/moves.png') no-repeat -4px -196px;
+	width: 24px;
+	height: 24px;
+}
+
+.mp {
+	background: url('../img/moves.png') no-repeat -45px -196px;
+	width: 24px;
+	height: 24px;
+}
+
+.hp {
+	background: url('../img/moves.png') no-repeat -82px -196px;
+	width: 24px;
+	height: 24px;
+}
+
+.punch {
+	background: url('../img/moves.png') no-repeat -116px -196px;
+	width: 23px;
+	height: 24px;
+}
+
+.lk {
+	background: url('../img/moves.png') no-repeat -5px -226px;
+	width: 24px;
+	height: 24px;
+}
+
+.mk {
+	background: url('../img/moves.png') no-repeat -45px -226px;
+	width: 24px;
+	height: 24px;
+}
+
+.hk {
+	background: url('../img/moves.png') no-repeat -82px -226px;
+	width: 24px;
+	height: 24px;
+}
+
+.kick {
+	background: url('../img/moves.png') no-repeat -117px -226px;
+	width: 22px;
+	height: 24px;
+}

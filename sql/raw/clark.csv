@@ -1,0 +1,62 @@
+Move,Damage,Stun,Startup,Guard Adv.,Comment
+,,,,,
+cl.A,25,3,4,2,
+cr.A,25,3,4,1,
+st.A,25,3,4,2,
+j.A,45,3,4,-,
+hop A,40,3,4,-,
+st.B,30,3,5,3,
+cr.B,30,3,4,1,
+far B,30,3,5,3,
+j.B,45,3,5,-,
+hop B,40,3,5,-,
+cl.C 1,40,6,4, - ,
+cl.C 2,40,6,  -  ,-1,
+cr.C,70,7,8,-1,
+st.C,80,7,12,-4,
+j.C,72,7,10, - ,
+hop C,70,7,10, - ,
+cl.D,40,8,4,-6,
+cr.D,80,7,6,-5,
+st.D,80,7,9,-3,
+j.D,70,7,4, - ,
+hop D,68,7,4, - ,
+st. CD,75,10,13,3,
+jump CD,90,8,13, - ,
+hop CD,80,8,14, - ,
+Jet Upper (Df + A),65,8,5,-6,
+Step (f + BD),,,-,-,"Whole-1F 23F, CD> step, C> step-5F"
+Death Mountain Buster: Throw C/D,100,0,1,-,Hard Knock Down
+Death Lake Drive: Air Throw C/D,135,0,1,-,Hard Knock Down
+GCCD,4,0,13,-15,"13 against Weak attacks, 17 against normal and low-hiting jumping attacks"
+,,,,,
+SAB1 (HCF + B/D),42,0,1,-,"36F, 53F B, D whole ska"
+SAB2 (HFF + B/D),90,0,-,-,
+? Flushing Elbow: SAB Follow up,35,0,-,-,
+Vulcan Punch 1-4 (AAAA),30,2,7,-3,2-15 hit
+A Gatling A1 (b[charge] ~ f + A ),60,4,8,-,
+A Gatling A2,60,4,-,-10,In close contact
+C A1 Gatling (b[charge] ~ f + C ),30,4,17,-,"maximum -13F, when touching at the last frame"
+C Gatling A2,30,4,-,-,
+C Gatling A3,40,4,-,-16,
+? Death Lake Drive: Gatling Follow up,135,0,-,-,Only when hit
+,,,,,
+EXSAB1 (HCF + BD),80,0,1,-,44F whole skala
+EXSAB2,80,0,-,-,
+Flushing E ? EX,40,0,-,-,
+Vulcan Punch EX 1 (A+C repetitivly),40,0,4,-,
+P2-4 EX Vulcan,40,0,-,0,
+EX Gatling A1  (b[charge] ~ f + A ),50,0,8,-,
+EX Gatling A2,50,0,-,-,"maximum-7F, when touching at the last frame"
+EX Gatling A3,50,0,-,-10,
+,,,,,
+UAB1 (2X HCB + AC),35,0,30 (1),-,Stop time 29
+"UAB2, 3",35,0,-,-,65F whole ska
+UAB4,130,0,-,-,
+,,,,,
+EXUAB1  (2X HCB + AC),60,0,30 (1),-,Stop time 29
+"EXUAB2, 3",60,0,-,-,65F whole ska
+EXUAB3,180,0,-,-,
+,,,,,
+Clark Ultra B1  ( 2X HCB + BD),0,0,42 (12),-30,Stop time 30
+Clark Ultra B2,450,0,-,-,

@@ -1,0 +1,56 @@
+Move,Damage,Stun,Startup,On Guard,Remarks
+s.A,25,3,4,2,Short range, but frame adv.
+d.A,25,3,5,1,
+far A,25,3,4,2,
+j.A,45,3,5,-,
+h.A,40,3,5,-,
+s.B,30,3,4,1,
+d.B,30,3,4,2,Short range, but frame adv.
+far B,30,3,4,1,
+j.B,45,3,4,-,
+hop B,40,3,4,-,
+s.C,70,7,5,-3,Fastest Str attack
+d.C,70,7,8,-5,
+far C,80,7,5,-3,
+j.C,72,7,7,-,
+hop C,70,7,7,-,
+s.D,80,7,8,-3,
+d.D,80,7,7,-9,
+far D,80,7,12,-7,
+j.D,70,7,6,-,
+hop D,68,7,6,-,
+st.CD,75,10,14,-8,Now kara-cancellable
+j.CD,90,8,12,-,
+hop CD,80,8,12,-,
+An Cou de Pied Ann,40,6,15,-9,
+Manier (throw),100,0,1,-,
+GCCD,4,0,13,-15,vs: Wk 13, Str 17, Jump 17 attacks
+A Etincelles,70,6,10,-4,
+C Etincelles1,50,3,23,-,
+C Etincelles2,47,3,-,1,
+Mistral,150,0,7,-,Whiff 37
+A Coup De Vent,50,6,13,-4,
+A Coup De Vent (high),35,6,13,-4,When hitbox high
+C Coup De Vent,60,6,18,-8,
+Reverie Geler,0,0,Jan-16,-,Full animation 30
+Reverie Prier,0,0,-,-,Full animation 37
+Reverie Souhaiter,0,0,-,-,Full animation 28
+EX Etincelles1,60,0,11,-,
+EX Etincelles2,3,60,0,-,12,
+EX Mistral,100,0,5,-,Whiff 35
+EX Coup De Vent,80,0,13,-10,
+EX Reverie Geler,0,0,Jan-16,-,As 1 hit, Full animation 35
+EX Reverie Prier,0,0,-,-,Full animation 37
+EX Reverie Souhaiter,0,0,-,-,Full animation 28
+Noble Blanche1,20,0,40(11),-,Freeze 29
+Noble Blanche2-9,20,0,-,-,
+Grand Rafale1,30,0,35(6)-38(9),-,Freeze 29, Distance change on start
+Grand Rafale2-9,10,0,-,-,
+Grand Rafale10-14,0,0,-,-,
+Grand Rafale15,40,0,-,-,
+EX Noble Blanche1,20,0,39(10),-,Freeze 29
+EX Noble Blanche2-14,20,0,-,-,
+EX Noble BlancheB15,60,0,-,-,
+Etoile Filante1,25,0,Jan-24,-,Whiff 49
+Etoile Filante2-19,25,0,-,-,
+,,,,,

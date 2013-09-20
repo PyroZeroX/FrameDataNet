@@ -1,0 +1,51 @@
+Fighter,Move,Damage,Stun,Startup,On Guard,Remarks
+Raiden,cl.A,30,3,4,0,
+Raiden,cr.A,30,3,7,0,
+Raiden,st.A,30,3,4,0,
+Raiden,j.A,45,3,5,-,
+Raiden,hop A,40,3,5,-,
+Raiden,cl.B,35,3,6,2,
+Raiden,cr.B,35,3,5,0,
+Raiden,st.B,35,3,6,2,
+Raiden,j.B,45,3,5,-,
+Raiden,hop B,40,3,5,-,
+Raiden,cl.C (1st hit),40,4,5,-,
+Raiden,cl.C (2nd hit),45,8,-,-3,
+Raiden,cr.C,70,7,6,-5,
+Raiden,st.C,80,7,11,-4,
+Raiden,j.C,72,7,6,-,
+Raiden,hop C,70,7,6,-,
+Raiden,cl.D (1st hit),45,6,10,-,
+Raiden,cl.D (2nd hit),50,4,-,-2,
+Raiden,cr.D,80,7,9,-8,
+Raiden,st.D,80,7,7,-7,
+Raiden,j.D,70,7,9,-,
+Raiden,hop D,68,7,9,-,
+Raiden,st.CD,75,10,15,-2,
+Raiden,j.CD,90,8,11,-,
+Raiden,hop CD,80,8,9,-,
+Raiden,Normal Throw,101,0,1,-,
+Raiden,GCCD,4,0,17,-15,17 Frame startup vs J attacks too
+Raiden,Head Crusher,150,0,1,-,38 on whiff
+Raiden,Raiden Bomb (1),15,0,5,-,
+Raiden,Raiden Bomb (2),120,0,-,-,
+Raiden,A Giant Bomb,70,8,19,-6,Close
+Raiden,C Giant Bomb,100,12,31,-7,"Close, Feint 27"
+Raiden,A Poison Breath,60,6,19,-6,
+Raiden,C Poison Breath,80,8,30,5,
+Raiden,Super Drop Kick 1,100,6,17,-11,"3 seconds, Count 2"
+Raiden,Super Drop Kick 2,150,8,17,-11,"9 seconds, Count 6"
+Raiden,Super Drop Kick 3,150,10,11,-5,"18 seconds, Count 12"
+Raiden,Super Drop Kick 4,250,20,11,-5,"24 seconds, Count 16"
+Raiden,EX Head Crusher,200,0,1,-,Whiff 38
+Raiden,EX Raiden Bomb 1,70,0,4,0,
+Raiden,EX Raiden Bomb 2,120,0,-,-8,
+Raiden,EX Giant Bomb 1,70,0,14,-,
+Raiden,EX Giant Bomb 2,100,0,-,-,
+Raiden,EX Poison Breath,120,0,18,-2,
+Raiden,Super Raiden Drop,240,0,1,-,"Freeze 29 , Whiff 58"
+Raiden,Crazy Train 1,40,0,40(11),-,
+Raiden,Crazy Train 2-4,40,0,-,-,
+Raiden,Crazy Train 5,60,0,-,-12,
+Raiden,EX Super Raiden Drop,360,0,1,-,"Freeze 29, Whiff 60"
+Raiden,Raiden Bomber,480,0,86?16?,-19,Freeze 70
